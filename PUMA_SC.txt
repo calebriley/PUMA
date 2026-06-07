@@ -1,0 +1,171 @@
+#Feature List
+Feature Type(*cons, vowel)
+
+Feature Place(bilabial, alveolar, dorsal, postalveolar)
+Feature Manner(stop, fricative, nasal, approx, trill)
+
+Feature Height(*open, close)
+Feature Backness(front, central, back)
+
+Feature +labial
+Feature +palatal
+Feature +punctuation
+
+Feature (syllable) +stress
+
+Diacritic ʷ [+labial]
+Diacritic ʲ [+palatal]
+Diacritic ˈ (before) [+stress]
+
+#Proto-consonants
+Symbol p [bilabial stop]
+Symbol m [bilabial nasal]
+
+Symbol pʲ [bilabial stop +palatal]
+Symbol mʲ [bilabial nasal +palatal]
+
+
+Symbol tʲ [alveolar stop +palatal]
+Symbol sʲ [alveolar fricative +palatal]
+Symbol nʲ [alveolar nasal +palatal]
+Symbol lʲ [alveolar approx +palatal]
+
+Symbol tʷ [alveolar stop +labial]
+Symbol sʷ [alveolar fricative +labial]
+Symbol nʷ [alveolar nasal +labial]
+Symbol lʷ [alveolar approx +labial]
+
+Symbol kʲ [dorsal stop +palatal]
+Symbol j [dorsal approx +palatal]
+
+Symbol kʷ [dorsal stop +labial]
+Symbol w [dorsal approx +labial]
+
+Symbol T []
+
+#Evolved consonants
+Symbol t [alveolar stop]
+Symbol s [alveolar fricative]
+Symbol n [alveolar nasal]
+Symbol l [alveolar approx]
+Symbol k [dorsal stop]
+
+Symbol ʃ [postalveolar fricative]
+
+#Proto-vowels
+Symbol ə [close vowel central]
+Symbol a [open vowel front]
+
+symbol r [alveolar trill]
+
+#Evolved vowels
+Symbol i [front close vowel]
+Symbol u [open back vowel]
+
+#Sound changes
+dash-fixer:
+\- => * / {_ $, $ _}
+then:
+\- => $$ / [] _ []
+
+deletion-of-final-j:
+ə j => i * / _ $
+then:
+j => * / _ $
+
+loss-of-final-palatal:
+[+palatal] * => [-palatal] i / _ $
+
+deletion-of-final-w:
+ə w => u * / _ $
+then:
+w => * / _ $
+
+add-u-post-final-labial:
+[+labial] * => [-labial] u / _ $
+
+more-labial:
+[cons] w => [+labial] *
+then:
+w [cons] => * [+labial]
+then:
+[+palatal +labial] => [+labial -palatal]
+
+more-palatal:
+[cons] j => [+palatal] *
+then:
+j [cons] => * [+palatal]
+then:
+[+palatal +labial] => [+labial -palatal]
+
+sub-cluster-labial:
+[+labial] * [cons] => [-labial] u [cons]
+
+sub-cluster-palatal:
+j [cons] => i [cons]
+then:
+[+palatal] * [cons] => [-palatal] i [cons]
+
+reduplication-mutation:
+[+palatal] => j / $$ _
+then:
+[+labial] => w / $$ _
+
+depalatal:
+j ə => * i
+then:
+j i => T i
+then:
+[+palatal] {ə, i} => [-palatal] i
+then:
+T i => j i
+
+decluster-cc:
+[cons] * [cons] => [cons] ə [cons]
+
+schwa-sweep:
+ə => i / i [cons] _
+ə => u / u [cons] _
+ə => a / a [cons] _
+then:
+ə => i / _ [cons] i
+ə => u / _ [cons] u
+ə => a / _ [cons] a
+then:
+ə => a
+
+double-vowel-fix:
+[vowel] [vowel] => [vowel] *
+
+wu-remove:
+w => T
+then:
+[+labial] => [-labial] / _ u
+then:
+T => w
+
+
+final-cons-fix:
+* => i / i [cons] _ $
+* => u / u [cons] _ $
+* => a / a [cons] _ $
+
+eshiffication:
+sʲ => ʃ
+then:
+s => ʃ / _ i 
+
+rrrr-im-a-pirate:
+lʲ => r
+lʷ => r
+
+
+redasher:
+$$ => \-
+
+#Syllable determination and stress system
+Syllables:
+[cons]? [vowel] [cons]?
+
+stress-assignment:
+<syl> => [+stress] / _ <syl> $

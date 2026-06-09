@@ -53,11 +53,33 @@ def apply_evolved_forms(input_filename: str, output_filename: str):
     with open(output_filename, mode="w") as output_file:
         output_file.writelines(json.dumps(decoded, indent=4))
 
+def romanise_form(form: str) -> str:
+    form = form.replace("ʷa", "ä")
+    form = form.replace("ʲa", "á")
+    form = form.replace("ʷi", "ï")
+    form = form.replace("ʲu", "ú")
+    form = form.replace("ʃ", "sh")
+    return form
+
+def romanise_json(filename: str):
+    decoded = None
+    with open(filename, mode="r") as file:
+        decoded = json.load(file)
+
+    for entry in decoded:
+        if entry["modernForm"]:
+            entry["romanisation"] = romanise_form(entry["modernForm"])
+    
+    with open(filename, mode="w") as file:
+        file.writelines(json.dumps(decoded, indent=4))
+
+
 def help(command: str):
     COMMANDS = [
        "convert_csv_to_json", 
        "convert_json_to_flat_list",
        "apply_evolved_forms",
+       "romanise_json",
     ]
     print(f"Command '{command}' not recognised")
     print("The following commands are available:")
@@ -67,14 +89,21 @@ def help(command: str):
 
 if __name__ == "__main__":
   command = str(sys.argv[1]).lower()
-  input_filename = str(sys.argv[2])
-  output_filename = str(sys.argv[3])
   match command:
     case "convert_csv_to_json":
+        input_filename = str(sys.argv[2])
+        output_filename = str(sys.argv[3])
         convert_csv_to_json(input_filename, output_filename)
     case "convert_json_to_flat_list":
+        input_filename = str(sys.argv[2])
+        output_filename = str(sys.argv[3])
         convert_json_to_flat_list(input_filename, output_filename)
     case "apply_evolved_forms":
+        input_filename = str(sys.argv[2])
+        output_filename = str(sys.argv[3])
         apply_evolved_forms(input_filename, output_filename)
+    case "romanise_json":
+        filename = str(sys.argv[2])
+        romanise_json(filename)
     case _:
         help(command)

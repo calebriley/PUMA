@@ -19,16 +19,51 @@ def convert_csv_to_json(input_filename: str, output_filename: str):
               "createdBy": row[4],
             })
         with open(output_filename, mode="w") as output_file:
-           output_file.writelines(json.dumps(vocab, indent=4))
+            output_file.writelines(json.dumps(vocab, indent=4))
 
 def convert_json_to_flat_list(input_filename: str, output_filename: str):
     vocab = []
     with open(input_filename, mode="r") as input_file:
-       decoded = json.load(input_file)
-       for entry in decoded:
-          vocab.append(entry["protoForm"]+"\n")
+        decoded = json.load(input_file)
+        for entry in decoded:
+            vocab.append(entry["protoForm"]+"\n")
     with open(output_filename, mode="w") as output_file:
         output_file.writelines(vocab)
+
+def apply_evolved_forms(input_filename: str, output_filename: str):
+    vocab = {}
+    with open(input_filename, mode="r") as input_file:
+        for line in input_file:
+            if not line or line.strip() == "":
+                continue
+            proto, evolved = line.split("=>")
+            proto = proto.strip()
+            evolved = evolved.strip()
+            vocab[proto] = evolved
+    decoded = None
+    with open(output_filename, mode="r") as output_file:
+        decoded = json.load(output_file)
+
+    for entry in decoded:
+        if entry["protoForm"] in vocab:
+            entry["evolvedForm"] = vocab[entry["protoForm"]]
+            if entry["modernForm"] is None:
+                entry["modernForm"] = vocab[entry["protoForm"]]
+    
+    with open(output_filename, mode="w") as output_file:
+        output_file.writelines(json.dumps(decoded, indent=4))
+
+def help(command: str):
+    COMMANDS = [
+       "convert_csv_to_json", 
+       "convert_json_to_flat_list",
+       "apply_evolved_forms",
+    ]
+    print(f"Command '{command}' not recognised")
+    print("The following commands are available:")
+    for available_command in COMMANDS:
+        print("\t" + available_command)
+
 
 if __name__ == "__main__":
   command = str(sys.argv[1]).lower()
@@ -39,5 +74,7 @@ if __name__ == "__main__":
         convert_csv_to_json(input_filename, output_filename)
     case "convert_json_to_flat_list":
         convert_json_to_flat_list(input_filename, output_filename)
+    case "apply_evolved_forms":
+        apply_evolved_forms(input_filename, output_filename)
     case _:
-      print(f"Command {command} not recognised")
+        help(command)

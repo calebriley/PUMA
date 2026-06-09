@@ -1,0 +1,3266 @@
+[
+    {
+        "protoForm": "mal\u02b2ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "bobcat"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "\u0259s\u02b7s\u02b7\u0259w",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "fonio"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "w\u0259t\u02b2\u0259j",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "bed"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "k\u02b7\u0259t\u02b2jan\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "garden"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "\u0259k\u02b2s\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "flute"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "l\u02b2\u0259m\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to give"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "apt\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to close"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "p\u0259t\u02b7p\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to pop (grain)"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "k\u02b7ak\u02b7-k\u02b7ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "ribbit"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "t\u02b2an\u02b7-t\u02b2an\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "happy",
+            "joyful"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "\u0259n\u02b7ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "gulp",
+            "gulping"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "m\u02b2ak\u02b2\u0259-m\u02b2ak\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "drunkenly",
+            "in an inebriated manner"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "k\u02b7\u0259t\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "kitten",
+            "young feline"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "al\u02b2\u0259m\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "mouse",
+            "house mouse"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "m\u0259t\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "brother"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "am\u02b2t\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "girl"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "at\u02b2\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "frog"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "t\u02b2\u0259s\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to lie (posture)"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "k\u02b2\u0259wk\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "mopane worm"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "t\u02b2amp\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "mopane tree"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "\u0259p\u02b2 'oop",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "oop",
+            "expression of surprise or shock",
+            "a small accident"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "l\u02b2\u0259n\u02b2ma-l\u02b2\u0259n\u02b2ma",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hot",
+            "sexy",
+            "like a new bombshell entering the villa"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "wal\u02b7wa",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "villa",
+            "fancy house for fancy people"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "aw\u0259n\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "mango"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "k\u02b7at\u02b2\u0259j-k\u02b7at\u02b2\u0259j",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "muddy",
+            "squelchy"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "j\u0259j\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cashew"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "t\u02b2at\u02b7ak\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "pink/Peruvian pepper"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "s\u02b2amas\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "goat"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "awam\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "garter snake"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "k\u02b7\u0259m\u02b2wak\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sagebrush"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "mal\u02b2t\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cloth",
+            "thin blanket"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "l\u02b7\u0259t\u02b2t\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cave"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "s\u02b2ajp\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "potter\u2019s wheel"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "p\u02b2\u0259p\u02b2\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to find"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "s\u02b7ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to run"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "k\u02b2\u0259s\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to burn incense / herbs"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "t\u02b7\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "slap of clay on wheel"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "l\u02b2\u0259-l\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cutesy, naive"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "k\u02b2\u0259j-k\u02b7\u0259w",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "snoring, snoozing"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "pak\u02b7-pak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "tediously, monotonously, boringly"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "k\u02b2an\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "clay"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "p\u0259t\u02b7ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to sit"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "m\u02b2\u0259l\u02b2k\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to search for"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "p\u02b2\u0259p\u02b2p\u02b2\u0259t\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "desert shrew"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "pat\u02b7at\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sumac"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "p\u02b2\u0259ma",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "copper"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "k\u02b7am",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "house"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "s\u02b7an\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "bowed string instrument"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "pawan\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to pull",
+            "to drag"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "m\u02b2\u0259n\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to sleep"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "s\u02b2\u0259k\u02b2-s\u02b2\u0259k\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "scrape",
+            "scratch",
+            "also for playing a s\u02b7an\u02b7\u0259"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "s\u02b2\u0259k\u02b2\u0259-s\u02b2\u0259k\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "scrape",
+            "scratch"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "k\u02b7at\u02b7k\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hurried",
+            "rushed",
+            "running"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "s\u02b7as\u02b2\u0259-s\u02b7as\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "flutter",
+            "flap",
+            "rustle",
+            "feeling nervous"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "l\u02b7al\u02b7at\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "idiophone played with mallet"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "s\u02b2\u0259n\u02b7a-s\u02b7\u0259n\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "mixy-mixy"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "k\u02b2aw",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "person"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "l\u02b7\u0259m\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to stand"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "l\u02b7\u0259k\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to walk",
+            "to go"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "at\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to see",
+            "to look at"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "\u0259t\u02b7al\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to hold",
+            "to carry"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "\u0259s\u02b7\u0259k\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to say"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "pat\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "punching sound",
+            "a big unpleasant surprise"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "\u0259pw\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "arm"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "at\u02b7j\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "head"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "n\u02b2at\u02b2wa",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "leg"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "ak\u02b7wam\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "eye"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "at\u02b2l\u02b2\u0259t\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sun"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "\u0259k\u02b7l\u02b2at\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sky"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "wap\u02b2l\u02b7\u0259p",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "door"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "ak\u02b7m\u02b2am",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hand"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "\u0259p\u02b2m\u02b2at\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "knot"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "k\u02b7\u0259t\u02b7m\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "mouth"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "l\u02b2ap\u0259n\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "moon"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "ak\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to make"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "s\u02b2\u0259wl\u02b2al\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to take",
+            "to pick",
+            "to harvest;"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "n\u02b2\u0259l\u02b7s\u02b7aw",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "village",
+            "town"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "al\u02b2s\u02b2am\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sister"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "m\u02b2al\u02b2s\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to turn"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "al\u02b2l\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "day"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "k\u02b7an\u02b2\u0259j",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "night"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "\u0259l\u02b7l\u02b7am",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to dance"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "s\u02b7aw",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to exist"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "t\u02b7\u0259k\u02b2\u0259l\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "beetle"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Tethys"
+    },
+    {
+        "protoForm": "k\u02b7an\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "oil palm"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Tethys"
+    },
+    {
+        "protoForm": "\u0259k\u02b7\u0259m\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "loom"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Tethys"
+    },
+    {
+        "protoForm": "k\u02b2\u0259s\u02b7\u0259l\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "river"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Tethys"
+    },
+    {
+        "protoForm": "t\u02b2\u0259t\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "spear"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Tethys"
+    },
+    {
+        "protoForm": "k\u02b7\u0259l\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to stab"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Tethys"
+    },
+    {
+        "protoForm": "s\u02b7\u0259m\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to breathe"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Tethys"
+    },
+    {
+        "protoForm": "pak\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "scorpion"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "jat\u02b7t\u02b2\u0259k\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "senna"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "l\u02b2\u0259w\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "rod"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "ground",
+            "floor"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "k\u02b7at\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "decorative shell"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "t\u02b2\u0259l\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to pierce",
+            "to bore"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "as\u02b2p\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to fly"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "p\u0259m\u02b2ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to winnow"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "k\u02b2\u0259ma-k\u02b7\u0259m\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "of itchiness",
+            "pins and needles",
+            "tingling",
+            "pricklin",
+            "paresthesia",
+            "odd discomfort",
+            "negative gut feeling"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "m\u0259k\u02b7t\u02b7\u0259-m\u0259k\u02b7t\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "of dread",
+            "foreboding"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "al\u02b2t\u02b2a-al\u02b2t\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "of celebration",
+            "dancing",
+            "cheering",
+            "whooping",
+            "hollering"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "pat\u02b7a-pat\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "of slow",
+            "ponderous motion or action"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "k\u02b7at\u02b2k\u02b2\u0259-k\u02b2at\u02b7k\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "of dizziness",
+            "haziness",
+            "loss of balance",
+            "unsteadiness",
+            "uncertainty"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "l\u02b7at\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "of sudden thudding (e.g. after a fall)",
+            "thwacking",
+            "smacking"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "\u0259t\u02b2\u0259p",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "finger-ring"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "j\u0259mk\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "raw",
+            "unrefined",
+            "crude"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "s\u02b7am\u02b2m\u02b2at\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "lungfish"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "k\u02b2\u0259m\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "two"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "t\u02b2\u0259p\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "finger-ring"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "\u0259s\u02b7\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "yoke"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "t\u02b7\u0259t\u02b2j\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sack"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "t\u02b2\u0259k\u02b7k\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to strike",
+            "to hit",
+            "to beat;"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "l\u02b2\u0259t\u02b2t\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to shout"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "at\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to do",
+            "to perform an action"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "t\u02b7\u0259pk\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to eat",
+            "to drink",
+            "to ingest"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "k\u02b2\u0259t\u02b7t\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sandfox"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "k\u02b7an\u02b2\u0259m",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "date palm"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "ajm\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "drop spindle"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "\u0259m\u02b2k\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "jali (stone lattice screen)"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "j\u0259k\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hackle/heckle comb"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "aws\u02b7as\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "water plants"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "m\u02b2\u0259n\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cry (sad)"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "j\u0259k\u02b2\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hackle/hecking fibres for spinning"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "s\u02b2\u0259w\u0259-s\u02b2\u0259w\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "the whistling sound of the evening wind through the jali"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "t\u02b2\u0259m-t\u02b2\u0259m",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "the calm you feel from performing mindless repetitive tasks like spinning"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "k\u02b2\u0259j-k\u02b2\u0259j",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "a baby bird\u2019s first song"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "j\u0259k\u02b7a-j\u0259k\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "as quick as possible",
+            "without care"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "s\u02b2\u0259mja",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "lentils"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "k\u02b7\u0259p\u02b2\u0259n\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cricket (insect)"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "l\u02b7ak\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cycad"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "t\u02b2\u0259mt\u02b2\u0259w",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "firewood"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "m\u02b2as\u02b7ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cemetary",
+            "graveyard"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "s\u02b2al\u02b2maj",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "grain flour"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "wawan\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hug",
+            "embrace"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "s\u02b7at\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to trip",
+            "to fall"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "p\u0259n\u02b2\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to tattoo"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "p\u0259l\u02b7p\u0259m",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sound of rain inside a building"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "mas\u02b7-mas\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "morose",
+            "sulking"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "jas\u02b2-jas\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "lizard tail dropping off",
+            "a surprising or unexpected event"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "p\u02b2ak\u02b7-p\u02b2ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "arrogantly",
+            "confidently"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Tinguish"
+    },
+    {
+        "protoForm": "pal\u02b7\u0259j",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "quail",
+            "buttonquail",
+            "plains-wanderer"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "mam\u02b2\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "acacia tree",
+            "mulga tree"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "n\u02b7ak\u02b7as\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "egg"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "l\u02b2\u0259t\u02b7n\u02b7\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "grove",
+            "cluster of trees"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "t\u02b7\u0259n\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to put",
+            "to place"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "n\u02b2as\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to grow",
+            "to age",
+            "to ripen;"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "\u0259t\u02b2\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "to chew sweet tree gum"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "t\u02b2ak\u02b7-t\u02b2ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "something hard cracking or breaking"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "s\u02b2\u0259s\u02b2-s\u02b2\u0259s\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "slithering",
+            "snake-like in motion"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "k\u02b7\u0259t\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "bird of prey",
+            "raptor",
+            "hawk",
+            "eagle",
+            "kestrel",
+            "harrier"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "m\u02b2as\u02b2l\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "small parrot",
+            "cockatoo",
+            "cockatiel",
+            "budgerigar",
+            "lorikeet"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "m\u02b2awt\u02b2at\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "monitor lizard",
+            "goanna",
+            "large carnivorous lizard"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "amm\u0259t\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "strong"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "n\u02b2aj",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "this"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "k\u02b7\u0259l\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "handsome",
+            "pretty"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "t\u02b2ak\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "big"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "wak\u02b2ak\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hot (temperature)"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "s\u02b2amam",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "true"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "aml\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sour"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "k\u02b7as\u02b2s\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "bland"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "l\u02b2\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "wet"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "w\u0259k\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "high"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "n\u02b2ak\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "short"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "t\u02b7awaj",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "turgid",
+            "swollen"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "jal\u02b2t\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "strange",
+            "foreign"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "m\u0259m\u0259s\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "soft"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "\u0259l\u02b2\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "fresh"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "k\u02b7aj\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "easy"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "s\u02b2\u0259s\u02b7s\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "quiet"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "l\u02b2\u0259t\u02b2ak\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hungry"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "t\u02b2\u0259k\u02b7\u0259t\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "clear"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "wamm\u02b2\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "stinky"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "k\u02b7\u0259k\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "wild"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "an\u02b2k\u02b2\u0259t\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "dirty"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "mamak\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "fast"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "s\u02b2ak\u02b7pa",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "brave"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "k\u02b2\u0259s\u02b2s\u02b2\u0259j",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sharp"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles"
+    },
+    {
+        "protoForm": "an\u02b7n\u02b7am",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "weak"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "p\u0259jj\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "that"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "s\u02b7an\u02b7\u0259n\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "ugly"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "mal\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "small"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "mam\u02b2aw",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cold"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "m\u0259t\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "false"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "t\u02b2\u0259ms\u02b2\u0259k\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sweet"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "t\u02b7\u0259ww\u0259n\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "tasty"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "The Autonomous Spirit of Google so-called Docs"
+    },
+    {
+        "protoForm": "k\u02b7\u0259s\u02b2s\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "dry"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "p\u0259l\u02b2wa",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "low"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "k\u02b7\u0259t\u02b7n\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "tall"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "maw\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "flaccid",
+            "droopy"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "\u0259k\u02b7m\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "familiar"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "jak\u02b2k\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "hard",
+            "firm"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "p\u02b2ak\u02b7w\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "rotten"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "\u0259wjan\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "difficult"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "\u0259pl\u02b2\u0259k\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "loud"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "wajjam",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "satiated"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "p\u02b2\u0259k\u02b7ap\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "opaque",
+            "turbid"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "m\u02b2\u0259n\u02b7\u0259t\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "pleasant-smelling"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras"
+    },
+    {
+        "protoForm": "l\u02b7awam\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "tame"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "\u0259wk\u02b2am",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "clean"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb"
+    },
+    {
+        "protoForm": "t\u02b7\u0259t\u02b7s\u02b7\u0259t\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "slow"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "keras"
+    },
+    {
+        "protoForm": "t\u02b2am\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "afraid"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan"
+    },
+    {
+        "protoForm": "k\u02b7awjan\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "dull"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Magpie"
+    },
+    {
+        "protoForm": "",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "absolutive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-as\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "ergative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-n\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "genitive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-k\u02b2\u0259j",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "dative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-l\u02b2at\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "instrumental"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-k\u02b7awa",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "locative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-t\u02b2\u0259p\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "ablative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-t\u02b7ajat\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "allative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "aw",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st singular harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "w\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st dual harmonic exclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "k\u02b2as\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st dual disharmonic exclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "m\u02b2ak\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st pural harmonic exclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "t\u02b2\u0259k\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st plural disharmonic exclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "k\u02b2\u0259pa",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st dual harmonic inclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "s\u02b7ams\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st dual disharmonic inclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "p\u02b2\u0259k\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st plural harmonic inclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "m\u0259t\u02b2m\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "1st plural disharmonic inclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "jat\u02b2\u0259k\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "2nd singular harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "\u0259l\u02b2k\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "2nd singular disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "paja",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "2nd dual harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "j\u0259m\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "2nd dual disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "l\u02b7at\u02b2s\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "2nd plural harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "k\u02b2\u0259s\u02b7j\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "2nd plural disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "m\u0259s\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "3rd singular harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "\u0259t\u02b7\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "3rd singular disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "m\u02b2\u0259t\u02b7\u0259k\u02b7",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "3rd dual harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "t\u02b7\u0259k\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "3rd dual disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "l\u02b2\u0259n\u02b2\u0259m",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "3rd plural harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "\u0259s\u02b7a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "3rd plural disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "\u0259t\u02b2-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "relativizer 'that Xes\u2019"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "ja-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "agentive 'X-er, who Xes'"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "aw\u0259-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "nominalisation 'x-ing'"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-k\u02b2\u0259-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "sequential 'after-X'"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-n\u02b7\u0259t\u02b2-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "while X, simultaneous"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-s\u02b2\u0259m\u02b2\u0259-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "inchoative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-at\u02b2t\u02b2an\u02b7-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "consequential"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-m\u02b2a-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "interrogative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-10 interrogative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-l\u02b7ak\u02b7-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "reflexive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-9 reflexive",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-l\u02b2an\u02b2-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "direct non-visual"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-8 evidential",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-s\u02b7ama-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "heresay"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-8 evidential",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-p\u0259p\u02b2a-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "imperative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-7 imperative, prohibitive",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-k\u02b2awat\u02b2-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "prohibitive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-7 imperative, prohibitive",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-k\u02b2\u0259t\u02b7-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "below",
+            "under",
+            "down",
+            "inside"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-6 directional",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-s\u02b2as\u02b7-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "above",
+            "over",
+            "up",
+            "away",
+            "out"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-6 directional",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-n\u02b2a-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "through",
+            "alongside",
+            "by"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-6 directional",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-awak\u02b2-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "optative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-5 optative, desirative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-k\u02b7ama-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "desirative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-5 optative, desirative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-t\u02b7ak\u02b7-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "negator"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-4 negative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-waj-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "not yet"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-4 negative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-t\u02b7a-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "causative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-2 causative, antipassive, applicative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-l\u02b2aw-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "antipassive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-2 causative, antipassive, applicative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-k\u02b2\u0259m\u02b2-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "comitative applicative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-2 causative, antipassive, applicative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-s\u02b7\u0259n\u02b2-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "benefactive applicative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-2 causative, antipassive, applicative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-m\u0259k\u02b7aj-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "abilitative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-1 abilitative",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-n\u02b2\u0259n\u02b7-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "recent past (same day)"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+2 tense",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-t\u02b7am\u02b2-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "distant past"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+2 tense",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-l\u02b7aj-",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "future"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+2 tense",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-l\u02b2\u0259",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "continuous"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+3 aspect",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-t\u02b2al\u02b2",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "cessative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+3 aspect",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-k\u02b7aw",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "perfective"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+3 aspect",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "l\u02b2ajn\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "late"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake"
+    },
+    {
+        "protoForm": "jawn\u02b2a",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "early"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb"
+    }
+]

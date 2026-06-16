@@ -78,9 +78,11 @@ def add_id(filename: str):
     with open(filename, mode="r") as file:
         decoded = json.load(file)
 
+    offset = 0
     for entry in decoded:
         if entry["romanisation"]:
-            entry["id"] = entry["romanisation"]
+            entry["id"] = entry["romanisation"] + "_" + str(offset)
+            offset += 1
     
     with open(filename, mode="w", encoding="utf8") as file:
         json.dump(decoded, file, indent=4, ensure_ascii=False)

@@ -1,6 +1,6 @@
 [
     {
-        "protoForm": "mal\u02b2ak\u02b7",
+        "protoForm": "malʲakʷ",
         "evolvedForm": "maraku",
         "modernForm": "maraku",
         "romanisation": "maraku",
@@ -12,7 +12,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "\u0259s\u02b7s\u02b7\u0259w",
+        "protoForm": "əsʷsʷəw",
         "evolvedForm": "ususu",
         "modernForm": "ususu",
         "romanisation": "ususu",
@@ -24,7 +24,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "w\u0259t\u02b2\u0259j",
+        "protoForm": "wətʲəj",
         "evolvedForm": "witi",
         "modernForm": "witi",
         "romanisation": "witi",
@@ -36,10 +36,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "k\u02b7\u0259t\u02b2jan\u02b2",
-        "evolvedForm": "k\u02b7at\u02b2ani",
-        "modernForm": "k\u02b7at\u02b2ani",
-        "romanisation": "k\u00e4t\u00e1ni",
+        "protoForm": "kʷətʲjanʲ",
+        "evolvedForm": "kʷatʲani",
+        "modernForm": "kʷatʲani",
+        "romanisation": "kätáni",
         "english": [
             "garden"
         ],
@@ -48,10 +48,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "\u0259k\u02b2s\u02b7\u0259",
-        "evolvedForm": "ikis\u02b7i",
-        "modernForm": "ikis\u02b7i",
-        "romanisation": "ikis\u00ef",
+        "protoForm": "əkʲsʷə",
+        "evolvedForm": "ikisʷi",
+        "modernForm": "ikisʷi",
+        "romanisation": "ikisï",
         "english": [
             "flute"
         ],
@@ -60,7 +60,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "l\u02b2\u0259m\u02b2\u0259",
+        "protoForm": "lʲəmʲə",
         "evolvedForm": "limi",
         "modernForm": "limi",
         "romanisation": "limi",
@@ -72,7 +72,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "apt\u02b2\u0259",
+        "protoForm": "aptʲə",
         "evolvedForm": "apati",
         "modernForm": "apati",
         "romanisation": "apati",
@@ -84,7 +84,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "p\u0259t\u02b7p\u0259",
+        "protoForm": "pətʷpə",
         "evolvedForm": "putupu",
         "modernForm": "putupu",
         "romanisation": "putupu",
@@ -96,10 +96,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "k\u02b7ak\u02b7-k\u02b7ak\u02b7",
-        "evolvedForm": "k\u02b7aku-waku",
-        "modernForm": "k\u02b7aku-waku",
-        "romanisation": "k\u00e4ku-waku",
+        "protoForm": "kʷakʷ-kʷakʷ",
+        "evolvedForm": "kʷaku-waku",
+        "modernForm": "kʷaku-waku",
+        "romanisation": "käku-waku",
         "english": [
             "ribbit"
         ],
@@ -108,10 +108,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "t\u02b2an\u02b7-t\u02b2an\u02b7",
-        "evolvedForm": "t\u02b2anu-janu",
-        "modernForm": "t\u02b2anu-janu",
-        "romanisation": "t\u00e1nu-janu",
+        "protoForm": "tʲanʷ-tʲanʷ",
+        "evolvedForm": "tʲanu-janu",
+        "modernForm": "tʲanu-janu",
+        "romanisation": "tánu-janu",
         "english": [
             "happy",
             "joyful"
@@ -121,10 +121,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "\u0259n\u02b7ak\u02b7",
-        "evolvedForm": "an\u02b7aku",
-        "modernForm": "an\u02b7aku",
-        "romanisation": "an\u00e4ku",
+        "protoForm": "ənʷakʷ",
+        "evolvedForm": "anʷaku",
+        "modernForm": "anʷaku",
+        "romanisation": "anäku",
         "english": [
             "gulp",
             "gulping"
@@ -134,10 +134,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "m\u02b2ak\u02b2\u0259-m\u02b2ak\u02b2\u0259",
-        "evolvedForm": "m\u02b2aki-jaki",
-        "modernForm": "m\u02b2aki-jaki",
-        "romanisation": "m\u00e1ki-jaki",
+        "protoForm": "mʲakʲə-mʲakʲə",
+        "evolvedForm": "mʲaki-jaki",
+        "modernForm": "mʲaki-jaki",
+        "romanisation": "máki-jaki",
         "english": [
             "drunkenly",
             "in an inebriated manner"
@@ -147,10 +147,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "k\u02b7\u0259t\u02b2a",
-        "evolvedForm": "k\u02b7at\u02b2a",
-        "modernForm": "k\u02b7at\u02b2a",
-        "romanisation": "k\u00e4t\u00e1",
+        "protoForm": "kʷətʲa",
+        "evolvedForm": "kʷatʲa",
+        "modernForm": "kʷatʲa",
+        "romanisation": "kätá",
         "english": [
             "kitten",
             "young feline"
@@ -160,7 +160,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "al\u02b2\u0259m\u02b2",
+        "protoForm": "alʲəmʲ",
         "evolvedForm": "alimi",
         "modernForm": "alimi",
         "romanisation": "alimi",
@@ -173,10 +173,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "m\u0259t\u02b7a",
-        "evolvedForm": "mat\u02b7a",
-        "modernForm": "mat\u02b7a",
-        "romanisation": "mat\u00e4",
+        "protoForm": "mətʷa",
+        "evolvedForm": "matʷa",
+        "modernForm": "matʷa",
+        "romanisation": "matä",
         "english": [
             "brother"
         ],
@@ -185,10 +185,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "am\u02b2t\u02b2a",
-        "evolvedForm": "amit\u02b2a",
-        "modernForm": "amit\u02b2a",
-        "romanisation": "amit\u00e1",
+        "protoForm": "amʲtʲa",
+        "evolvedForm": "amitʲa",
+        "modernForm": "amitʲa",
+        "romanisation": "amitá",
         "english": [
             "girl"
         ],
@@ -197,7 +197,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "at\u02b2\u0259k\u02b7",
+        "protoForm": "atʲəkʷ",
         "evolvedForm": "atiku",
         "modernForm": "atiku",
         "romanisation": "atiku",
@@ -209,10 +209,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "t\u02b2\u0259s\u02b7a",
-        "evolvedForm": "tis\u02b7a",
-        "modernForm": "tis\u02b7a",
-        "romanisation": "tis\u00e4",
+        "protoForm": "tʲəsʷa",
+        "evolvedForm": "tisʷa",
+        "modernForm": "tisʷa",
+        "romanisation": "tisä",
         "english": [
             "to lie (posture)"
         ],
@@ -221,10 +221,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "k\u02b2\u0259wk\u02b7a",
-        "evolvedForm": "kik\u02b7a",
-        "modernForm": "kik\u02b7a",
-        "romanisation": "kik\u00e4",
+        "protoForm": "kʲəwkʷa",
+        "evolvedForm": "kikʷa",
+        "modernForm": "kikʷa",
+        "romanisation": "kikä",
         "english": [
             "mopane worm"
         ],
@@ -233,10 +233,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "t\u02b2amp\u02b2a",
-        "evolvedForm": "t\u02b2amap\u02b2a",
-        "modernForm": "t\u02b2amap\u02b2a",
-        "romanisation": "t\u00e1map\u00e1",
+        "protoForm": "tʲampʲa",
+        "evolvedForm": "tʲamapʲa",
+        "modernForm": "tʲamapʲa",
+        "romanisation": "támapá",
         "english": [
             "mopane tree"
         ],
@@ -245,7 +245,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "\u0259p\u02b2 'oop",
+        "protoForm": "əpʲ 'oop",
         "evolvedForm": "ipi-'aooapa",
         "modernForm": "ipi-'aooapa",
         "romanisation": "ipi-'aooapa",
@@ -259,7 +259,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "l\u02b2\u0259n\u02b2ma-l\u02b2\u0259n\u02b2ma",
+        "protoForm": "lʲənʲma-lʲənʲma",
         "evolvedForm": "linima-inima",
         "modernForm": "linima-inima",
         "romanisation": "linima-inima",
@@ -273,7 +273,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "wal\u02b7wa",
+        "protoForm": "walʷwa",
         "evolvedForm": "wara",
         "modernForm": "wara",
         "romanisation": "wara",
@@ -286,7 +286,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "aw\u0259n\u02b7",
+        "protoForm": "awənʷ",
         "evolvedForm": "awanu",
         "modernForm": "awanu",
         "romanisation": "awanu",
@@ -298,10 +298,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "k\u02b7at\u02b2\u0259j-k\u02b7at\u02b2\u0259j",
-        "evolvedForm": "k\u02b7ati-wati",
-        "modernForm": "k\u02b7ati-wati",
-        "romanisation": "k\u00e4ti-wati",
+        "protoForm": "kʷatʲəj-kʷatʲəj",
+        "evolvedForm": "kʷati-wati",
+        "modernForm": "kʷati-wati",
+        "romanisation": "käti-wati",
         "english": [
             "muddy",
             "squelchy"
@@ -311,7 +311,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "j\u0259j\u0259t\u02b7",
+        "protoForm": "jəjətʷ",
         "evolvedForm": "itu",
         "modernForm": "itu",
         "romanisation": "itu",
@@ -323,10 +323,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "t\u02b2at\u02b7ak\u02b2",
-        "evolvedForm": "t\u02b2at\u02b7aki",
-        "modernForm": "t\u02b2at\u02b7aki",
-        "romanisation": "t\u00e1t\u00e4ki",
+        "protoForm": "tʲatʷakʲ",
+        "evolvedForm": "tʲatʷaki",
+        "modernForm": "tʲatʷaki",
+        "romanisation": "tátäki",
         "english": [
             "pink/Peruvian pepper"
         ],
@@ -335,9 +335,9 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "s\u02b2amas\u02b2",
-        "evolvedForm": "\u0283ama\u0283i",
-        "modernForm": "\u0283ama\u0283i",
+        "protoForm": "sʲamasʲ",
+        "evolvedForm": "ʃamaʃi",
+        "modernForm": "ʃamaʃi",
         "romanisation": "shamashi",
         "english": [
             "goat"
@@ -347,7 +347,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "awam\u02b2",
+        "protoForm": "awamʲ",
         "evolvedForm": "awami",
         "modernForm": "awami",
         "romanisation": "awami",
@@ -359,10 +359,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "k\u02b7\u0259m\u02b2wak\u02b2",
-        "evolvedForm": "k\u02b7am\u02b7aki",
-        "modernForm": "k\u02b7am\u02b7aki",
-        "romanisation": "k\u00e4m\u00e4ki",
+        "protoForm": "kʷəmʲwakʲ",
+        "evolvedForm": "kʷamʷaki",
+        "modernForm": "kʷamʷaki",
+        "romanisation": "kämäki",
         "english": [
             "sagebrush"
         ],
@@ -371,10 +371,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "mal\u02b2t\u02b7\u0259",
-        "evolvedForm": "malit\u02b7i",
-        "modernForm": "malit\u02b7i",
-        "romanisation": "malit\u00ef",
+        "protoForm": "malʲtʷə",
+        "evolvedForm": "malitʷi",
+        "modernForm": "malitʷi",
+        "romanisation": "malitï",
         "english": [
             "cloth",
             "thin blanket"
@@ -384,7 +384,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "l\u02b7\u0259t\u02b2t\u02b2\u0259",
+        "protoForm": "lʷətʲtʲə",
         "evolvedForm": "rititi",
         "modernForm": "rititi",
         "romanisation": "rititi",
@@ -396,19 +396,19 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "s\u02b2ajp\u0259t\u02b7",
-        "evolvedForm": "\u0283apitu",
-        "modernForm": "\u0283apitu",
+        "protoForm": "sʲajpətʷ",
+        "evolvedForm": "ʃapitu",
+        "modernForm": "ʃapitu",
         "romanisation": "shapitu",
         "english": [
-            "potter\u2019s wheel"
+            "potter’s wheel"
         ],
         "partOfSpeech": "noun",
         "notes": "Culturally-Interesting",
         "createdBy": "Miles"
     },
     {
-        "protoForm": "p\u02b2\u0259p\u02b2\u0259k\u02b7",
+        "protoForm": "pʲəpʲəkʷ",
         "evolvedForm": "pipiku",
         "modernForm": "pipiku",
         "romanisation": "pipiku",
@@ -420,10 +420,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "s\u02b7ak\u02b7",
-        "evolvedForm": "s\u02b7aku",
-        "modernForm": "s\u02b7aku",
-        "romanisation": "s\u00e4ku",
+        "protoForm": "sʷakʷ",
+        "evolvedForm": "sʷaku",
+        "modernForm": "sʷaku",
+        "romanisation": "säku",
         "english": [
             "to run"
         ],
@@ -432,9 +432,9 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "k\u02b2\u0259s\u02b2",
-        "evolvedForm": "ki\u0283i",
-        "modernForm": "ki\u0283i",
+        "protoForm": "kʲəsʲ",
+        "evolvedForm": "kiʃi",
+        "modernForm": "kiʃi",
         "romanisation": "kishi",
         "english": [
             "to burn incense / herbs"
@@ -444,7 +444,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "t\u02b7\u0259k\u02b7",
+        "protoForm": "tʷəkʷ",
         "evolvedForm": "tuku",
         "modernForm": "tuku",
         "romanisation": "tuku",
@@ -456,7 +456,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "l\u02b2\u0259-l\u02b2\u0259",
+        "protoForm": "lʲə-lʲə",
         "evolvedForm": "li-i",
         "modernForm": "li-i",
         "romanisation": "li-i",
@@ -468,7 +468,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "k\u02b2\u0259j-k\u02b7\u0259w",
+        "protoForm": "kʲəj-kʷəw",
         "evolvedForm": "ki-wu",
         "modernForm": "ki-wu",
         "romanisation": "ki-wu",
@@ -480,7 +480,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "pak\u02b7-pak\u02b7",
+        "protoForm": "pakʷ-pakʷ",
         "evolvedForm": "paku-paku",
         "modernForm": "paku-paku",
         "romanisation": "paku-paku",
@@ -492,10 +492,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "k\u02b2an\u02b7\u0259",
-        "evolvedForm": "k\u02b2an\u02b7a",
-        "modernForm": "k\u02b2an\u02b7a",
-        "romanisation": "k\u00e1n\u00e4",
+        "protoForm": "kʲanʷə",
+        "evolvedForm": "kʲanʷa",
+        "modernForm": "kʲanʷa",
+        "romanisation": "kánä",
         "english": [
             "clay"
         ],
@@ -504,10 +504,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "p\u0259t\u02b7ak\u02b7",
-        "evolvedForm": "pat\u02b7aku",
-        "modernForm": "pat\u02b7aku",
-        "romanisation": "pat\u00e4ku",
+        "protoForm": "pətʷakʷ",
+        "evolvedForm": "patʷaku",
+        "modernForm": "patʷaku",
+        "romanisation": "patäku",
         "english": [
             "to sit"
         ],
@@ -516,10 +516,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "m\u02b2\u0259l\u02b2k\u02b7\u0259",
-        "evolvedForm": "milik\u02b7i",
-        "modernForm": "milik\u02b7i",
-        "romanisation": "milik\u00ef",
+        "protoForm": "mʲəlʲkʷə",
+        "evolvedForm": "milikʷi",
+        "modernForm": "milikʷi",
+        "romanisation": "milikï",
         "english": [
             "to search for"
         ],
@@ -528,7 +528,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "p\u02b2\u0259p\u02b2p\u02b2\u0259t\u02b2",
+        "protoForm": "pʲəpʲpʲətʲ",
         "evolvedForm": "pipipiti",
         "modernForm": "pipipiti",
         "romanisation": "pipipiti",
@@ -540,10 +540,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "pat\u02b7at\u02b7",
-        "evolvedForm": "pat\u02b7atu",
-        "modernForm": "pat\u02b7atu",
-        "romanisation": "pat\u00e4tu",
+        "protoForm": "patʷatʷ",
+        "evolvedForm": "patʷatu",
+        "modernForm": "patʷatu",
+        "romanisation": "patätu",
         "english": [
             "sumac"
         ],
@@ -552,7 +552,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "p\u02b2\u0259ma",
+        "protoForm": "pʲəma",
         "evolvedForm": "pima",
         "modernForm": "pima",
         "romanisation": "pima",
@@ -564,10 +564,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "k\u02b7am",
-        "evolvedForm": "k\u02b7ama",
-        "modernForm": "k\u02b7ama",
-        "romanisation": "k\u00e4ma",
+        "protoForm": "kʷam",
+        "evolvedForm": "kʷama",
+        "modernForm": "kʷama",
+        "romanisation": "käma",
         "english": [
             "house"
         ],
@@ -576,10 +576,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "s\u02b7an\u02b7\u0259",
-        "evolvedForm": "s\u02b7an\u02b7a",
-        "modernForm": "s\u02b7an\u02b7a",
-        "romanisation": "s\u00e4n\u00e4",
+        "protoForm": "sʷanʷə",
+        "evolvedForm": "sʷanʷa",
+        "modernForm": "sʷanʷa",
+        "romanisation": "sänä",
         "english": [
             "bowed string instrument"
         ],
@@ -588,7 +588,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "pawan\u02b2",
+        "protoForm": "pawanʲ",
         "evolvedForm": "pawani",
         "modernForm": "pawani",
         "romanisation": "pawani",
@@ -601,10 +601,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "m\u02b2\u0259n\u02b7\u0259",
-        "evolvedForm": "min\u02b7i",
-        "modernForm": "min\u02b7i",
-        "romanisation": "min\u00ef",
+        "protoForm": "mʲənʷə",
+        "evolvedForm": "minʷi",
+        "modernForm": "minʷi",
+        "romanisation": "minï",
         "english": [
             "to sleep"
         ],
@@ -613,23 +613,23 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "s\u02b2\u0259k\u02b2-s\u02b2\u0259k\u02b2",
-        "evolvedForm": "\u0283iki-iki",
-        "modernForm": "\u0283iki-iki",
+        "protoForm": "sʲəkʲ-sʲəkʲ",
+        "evolvedForm": "ʃiki-iki",
+        "modernForm": "ʃiki-iki",
         "romanisation": "shiki-iki",
         "english": [
             "scrape",
             "scratch",
-            "also for playing a s\u02b7an\u02b7\u0259"
+            "also for playing a sʷanʷə"
         ],
         "partOfSpeech": "ideophone",
         "notes": "Sound/Sensory",
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "s\u02b2\u0259k\u02b2\u0259-s\u02b2\u0259k\u02b2\u0259",
-        "evolvedForm": "\u0283iki-iki",
-        "modernForm": "\u0283iki-iki",
+        "protoForm": "sʲəkʲə-sʲəkʲə",
+        "evolvedForm": "ʃiki-iki",
+        "modernForm": "ʃiki-iki",
         "romanisation": "shiki-iki",
         "english": [
             "scrape",
@@ -640,10 +640,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "k\u02b7at\u02b7k\u02b7\u0259",
-        "evolvedForm": "k\u02b7atuku",
-        "modernForm": "k\u02b7atuku",
-        "romanisation": "k\u00e4tuku",
+        "protoForm": "kʷatʷkʷə",
+        "evolvedForm": "kʷatuku",
+        "modernForm": "kʷatuku",
+        "romanisation": "kätuku",
         "english": [
             "hurried",
             "rushed",
@@ -654,10 +654,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "s\u02b7as\u02b2\u0259-s\u02b7as\u02b2\u0259",
-        "evolvedForm": "s\u02b7a\u0283i-wa\u0283i",
-        "modernForm": "s\u02b7a\u0283i-wa\u0283i",
-        "romanisation": "s\u00e4shi-washi",
+        "protoForm": "sʷasʲə-sʷasʲə",
+        "evolvedForm": "sʷaʃi-waʃi",
+        "modernForm": "sʷaʃi-waʃi",
+        "romanisation": "säshi-washi",
         "english": [
             "flutter",
             "flap",
@@ -669,7 +669,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "l\u02b7al\u02b7at\u02b7",
+        "protoForm": "lʷalʷatʷ",
         "evolvedForm": "raratu",
         "modernForm": "raratu",
         "romanisation": "raratu",
@@ -681,10 +681,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "s\u02b2\u0259n\u02b7a-s\u02b7\u0259n\u02b2a",
-        "evolvedForm": "\u0283in\u02b7a-wan\u02b2a",
-        "modernForm": "\u0283in\u02b7a-wan\u02b2a",
-        "romanisation": "shin\u00e4-wan\u00e1",
+        "protoForm": "sʲənʷa-sʷənʲa",
+        "evolvedForm": "ʃinʷa-wanʲa",
+        "modernForm": "ʃinʷa-wanʲa",
+        "romanisation": "shinä-waná",
         "english": [
             "mixy-mixy"
         ],
@@ -693,10 +693,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "k\u02b2aw",
-        "evolvedForm": "k\u02b2a",
-        "modernForm": "k\u02b2a",
-        "romanisation": "k\u00e1",
+        "protoForm": "kʲaw",
+        "evolvedForm": "kʲa",
+        "modernForm": "kʲa",
+        "romanisation": "ká",
         "english": [
             "person"
         ],
@@ -705,7 +705,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "l\u02b7\u0259m\u02b2",
+        "protoForm": "lʷəmʲ",
         "evolvedForm": "rimi",
         "modernForm": "rimi",
         "romanisation": "rimi",
@@ -717,10 +717,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "l\u02b7\u0259k\u02b7a",
-        "evolvedForm": "rak\u02b7a",
-        "modernForm": "rak\u02b7a",
-        "romanisation": "rak\u00e4",
+        "protoForm": "lʷəkʷa",
+        "evolvedForm": "rakʷa",
+        "modernForm": "rakʷa",
+        "romanisation": "rakä",
         "english": [
             "to walk",
             "to go"
@@ -730,10 +730,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "at\u02b7\u0259",
-        "evolvedForm": "at\u02b7a",
-        "modernForm": "at\u02b7a",
-        "romanisation": "at\u00e4",
+        "protoForm": "atʷə",
+        "evolvedForm": "atʷa",
+        "modernForm": "atʷa",
+        "romanisation": "atä",
         "english": [
             "to see",
             "to look at"
@@ -743,10 +743,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "\u0259t\u02b7al\u02b2",
-        "evolvedForm": "at\u02b7ali",
-        "modernForm": "at\u02b7ali",
-        "romanisation": "at\u00e4li",
+        "protoForm": "ətʷalʲ",
+        "evolvedForm": "atʷali",
+        "modernForm": "atʷali",
+        "romanisation": "atäli",
         "english": [
             "to hold",
             "to carry"
@@ -756,10 +756,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "\u0259s\u02b7\u0259k\u02b2",
-        "evolvedForm": "as\u02b7iki",
-        "modernForm": "as\u02b7iki",
-        "romanisation": "as\u00efki",
+        "protoForm": "əsʷəkʲ",
+        "evolvedForm": "asʷiki",
+        "modernForm": "asʷiki",
+        "romanisation": "asïki",
         "english": [
             "to say"
         ],
@@ -768,7 +768,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "pat\u02b7",
+        "protoForm": "patʷ",
         "evolvedForm": "patu",
         "modernForm": "patu",
         "romanisation": "patu",
@@ -781,10 +781,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "\u0259pw\u0259",
-        "evolvedForm": "ap\u02b7a",
-        "modernForm": "ap\u02b7a",
-        "romanisation": "ap\u00e4",
+        "protoForm": "əpwə",
+        "evolvedForm": "apʷa",
+        "modernForm": "apʷa",
+        "romanisation": "apä",
         "english": [
             "arm"
         ],
@@ -793,10 +793,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "at\u02b7j\u0259",
-        "evolvedForm": "at\u02b7a",
-        "modernForm": "at\u02b7a",
-        "romanisation": "at\u00e4",
+        "protoForm": "atʷjə",
+        "evolvedForm": "atʷa",
+        "modernForm": "atʷa",
+        "romanisation": "atä",
         "english": [
             "head"
         ],
@@ -805,10 +805,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "n\u02b2at\u02b2wa",
-        "evolvedForm": "n\u02b2at\u02b7a",
-        "modernForm": "n\u02b2at\u02b7a",
-        "romanisation": "n\u00e1t\u00e4",
+        "protoForm": "nʲatʲwa",
+        "evolvedForm": "nʲatʷa",
+        "modernForm": "nʲatʷa",
+        "romanisation": "nátä",
         "english": [
             "leg"
         ],
@@ -817,10 +817,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "ak\u02b7wam\u02b2",
-        "evolvedForm": "ak\u02b7ami",
-        "modernForm": "ak\u02b7ami",
-        "romanisation": "ak\u00e4mi",
+        "protoForm": "akʷwamʲ",
+        "evolvedForm": "akʷami",
+        "modernForm": "akʷami",
+        "romanisation": "akämi",
         "english": [
             "eye"
         ],
@@ -829,7 +829,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "at\u02b2l\u02b2\u0259t\u02b2",
+        "protoForm": "atʲlʲətʲ",
         "evolvedForm": "atiliti",
         "modernForm": "atiliti",
         "romanisation": "atiliti",
@@ -841,7 +841,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "\u0259k\u02b7l\u02b2at\u02b7",
+        "protoForm": "əkʷlʲatʷ",
         "evolvedForm": "ukuratu",
         "modernForm": "ukuratu",
         "romanisation": "ukuratu",
@@ -853,7 +853,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "wap\u02b2l\u02b7\u0259p",
+        "protoForm": "wapʲlʷəp",
         "evolvedForm": "wapiripi",
         "modernForm": "wapiripi",
         "romanisation": "wapiripi",
@@ -865,10 +865,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "ak\u02b7m\u02b2am",
-        "evolvedForm": "akum\u02b2ama",
-        "modernForm": "akum\u02b2ama",
-        "romanisation": "akum\u00e1ma",
+        "protoForm": "akʷmʲam",
+        "evolvedForm": "akumʲama",
+        "modernForm": "akumʲama",
+        "romanisation": "akumáma",
         "english": [
             "hand"
         ],
@@ -877,10 +877,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "\u0259p\u02b2m\u02b2at\u02b7",
-        "evolvedForm": "ipim\u02b2atu",
-        "modernForm": "ipim\u02b2atu",
-        "romanisation": "ipim\u00e1tu",
+        "protoForm": "əpʲmʲatʷ",
+        "evolvedForm": "ipimʲatu",
+        "modernForm": "ipimʲatu",
+        "romanisation": "ipimátu",
         "english": [
             "knot"
         ],
@@ -889,7 +889,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "k\u02b7\u0259t\u02b7m\u0259",
+        "protoForm": "kʷətʷmə",
         "evolvedForm": "kutumu",
         "modernForm": "kutumu",
         "romanisation": "kutumu",
@@ -901,7 +901,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "l\u02b2ap\u0259n\u02b7",
+        "protoForm": "lʲapənʷ",
         "evolvedForm": "rapanu",
         "modernForm": "rapanu",
         "romanisation": "rapanu",
@@ -913,10 +913,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "ak\u02b7\u0259",
-        "evolvedForm": "ak\u02b7a",
-        "modernForm": "ak\u02b7a",
-        "romanisation": "ak\u00e4",
+        "protoForm": "akʷə",
+        "evolvedForm": "akʷa",
+        "modernForm": "akʷa",
+        "romanisation": "akä",
         "english": [
             "to make"
         ],
@@ -925,9 +925,9 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "s\u02b2\u0259wl\u02b2al\u02b7",
-        "evolvedForm": "\u0283iralu",
-        "modernForm": "\u0283iralu",
+        "protoForm": "sʲəwlʲalʷ",
+        "evolvedForm": "ʃiralu",
+        "modernForm": "ʃiralu",
         "romanisation": "shiralu",
         "english": [
             "to take",
@@ -939,10 +939,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "n\u02b2\u0259l\u02b7s\u02b7aw",
-        "evolvedForm": "nilus\u02b7a",
-        "modernForm": "nilus\u02b7a",
-        "romanisation": "nilus\u00e4",
+        "protoForm": "nʲəlʷsʷaw",
+        "evolvedForm": "nilusʷa",
+        "modernForm": "nilusʷa",
+        "romanisation": "nilusä",
         "english": [
             "village",
             "town"
@@ -952,9 +952,9 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "al\u02b2s\u02b2am\u02b2",
-        "evolvedForm": "ali\u0283ami",
-        "modernForm": "ali\u0283ami",
+        "protoForm": "alʲsʲamʲ",
+        "evolvedForm": "aliʃami",
+        "modernForm": "aliʃami",
         "romanisation": "alishami",
         "english": [
             "sister"
@@ -964,10 +964,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "m\u02b2al\u02b2s\u02b7a",
-        "evolvedForm": "m\u02b2alis\u02b7a",
-        "modernForm": "m\u02b2alis\u02b7a",
-        "romanisation": "m\u00e1lis\u00e4",
+        "protoForm": "mʲalʲsʷa",
+        "evolvedForm": "mʲalisʷa",
+        "modernForm": "mʲalisʷa",
+        "romanisation": "málisä",
         "english": [
             "to turn"
         ],
@@ -976,7 +976,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "al\u02b2l\u02b2\u0259",
+        "protoForm": "alʲlʲə",
         "evolvedForm": "alili",
         "modernForm": "alili",
         "romanisation": "alili",
@@ -988,10 +988,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "k\u02b7an\u02b2\u0259j",
-        "evolvedForm": "k\u02b7ani",
-        "modernForm": "k\u02b7ani",
-        "romanisation": "k\u00e4ni",
+        "protoForm": "kʷanʲəj",
+        "evolvedForm": "kʷani",
+        "modernForm": "kʷani",
+        "romanisation": "käni",
         "english": [
             "night"
         ],
@@ -1000,7 +1000,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "\u0259l\u02b7l\u02b7am",
+        "protoForm": "əlʷlʷam",
         "evolvedForm": "ulurama",
         "modernForm": "ulurama",
         "romanisation": "ulurama",
@@ -1012,10 +1012,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "s\u02b7aw",
-        "evolvedForm": "s\u02b7a",
-        "modernForm": "s\u02b7a",
-        "romanisation": "s\u00e4",
+        "protoForm": "sʷaw",
+        "evolvedForm": "sʷa",
+        "modernForm": "sʷa",
+        "romanisation": "sä",
         "english": [
             "to exist"
         ],
@@ -1024,10 +1024,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "t\u02b7\u0259k\u02b2\u0259l\u02b2",
-        "evolvedForm": "t\u02b7ikili",
-        "modernForm": "t\u02b7ikili",
-        "romanisation": "t\u00efkili",
+        "protoForm": "tʷəkʲəlʲ",
+        "evolvedForm": "tʷikili",
+        "modernForm": "tʷikili",
+        "romanisation": "tïkili",
         "english": [
             "beetle"
         ],
@@ -1036,10 +1036,10 @@
         "createdBy": "Tethys"
     },
     {
-        "protoForm": "k\u02b7an\u02b2",
-        "evolvedForm": "k\u02b7ani",
-        "modernForm": "k\u02b7ani",
-        "romanisation": "k\u00e4ni",
+        "protoForm": "kʷanʲ",
+        "evolvedForm": "kʷani",
+        "modernForm": "kʷani",
+        "romanisation": "käni",
         "english": [
             "oil palm"
         ],
@@ -1048,10 +1048,10 @@
         "createdBy": "Tethys"
     },
     {
-        "protoForm": "\u0259k\u02b7\u0259m\u02b2",
-        "evolvedForm": "ak\u02b7imi",
-        "modernForm": "ak\u02b7imi",
-        "romanisation": "ak\u00efmi",
+        "protoForm": "əkʷəmʲ",
+        "evolvedForm": "akʷimi",
+        "modernForm": "akʷimi",
+        "romanisation": "akïmi",
         "english": [
             "loom"
         ],
@@ -1060,10 +1060,10 @@
         "createdBy": "Tethys"
     },
     {
-        "protoForm": "k\u02b2\u0259s\u02b7\u0259l\u02b2",
-        "evolvedForm": "kis\u02b7ili",
-        "modernForm": "kis\u02b7ili",
-        "romanisation": "kis\u00efli",
+        "protoForm": "kʲəsʷəlʲ",
+        "evolvedForm": "kisʷili",
+        "modernForm": "kisʷili",
+        "romanisation": "kisïli",
         "english": [
             "river"
         ],
@@ -1072,7 +1072,7 @@
         "createdBy": "Tethys"
     },
     {
-        "protoForm": "t\u02b2\u0259t\u02b2",
+        "protoForm": "tʲətʲ",
         "evolvedForm": "titi",
         "modernForm": "titi",
         "romanisation": "titi",
@@ -1084,10 +1084,10 @@
         "createdBy": "Tethys"
     },
     {
-        "protoForm": "k\u02b7\u0259l\u02b7a",
-        "evolvedForm": "k\u02b7ara",
-        "modernForm": "k\u02b7ara",
-        "romanisation": "k\u00e4ra",
+        "protoForm": "kʷəlʷa",
+        "evolvedForm": "kʷara",
+        "modernForm": "kʷara",
+        "romanisation": "kära",
         "english": [
             "to stab"
         ],
@@ -1096,10 +1096,10 @@
         "createdBy": "Tethys"
     },
     {
-        "protoForm": "s\u02b7\u0259m\u0259",
-        "evolvedForm": "s\u02b7ama",
-        "modernForm": "s\u02b7ama",
-        "romanisation": "s\u00e4ma",
+        "protoForm": "sʷəmə",
+        "evolvedForm": "sʷama",
+        "modernForm": "sʷama",
+        "romanisation": "säma",
         "english": [
             "to breathe"
         ],
@@ -1108,10 +1108,10 @@
         "createdBy": "Tethys"
     },
     {
-        "protoForm": "pak\u02b2a",
-        "evolvedForm": "pak\u02b2a",
-        "modernForm": "pak\u02b2a",
-        "romanisation": "pak\u00e1",
+        "protoForm": "pakʲa",
+        "evolvedForm": "pakʲa",
+        "modernForm": "pakʲa",
+        "romanisation": "paká",
         "english": [
             "scorpion"
         ],
@@ -1120,7 +1120,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "jat\u02b7t\u02b2\u0259k\u02b2",
+        "protoForm": "jatʷtʲəkʲ",
         "evolvedForm": "jatutiki",
         "modernForm": "jatutiki",
         "romanisation": "jatutiki",
@@ -1132,7 +1132,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "l\u02b2\u0259w\u0259t\u02b7",
+        "protoForm": "lʲəwətʷ",
         "evolvedForm": "liwitu",
         "modernForm": "liwitu",
         "romanisation": "liwitu",
@@ -1144,7 +1144,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "ak\u02b7",
+        "protoForm": "akʷ",
         "evolvedForm": "aku",
         "modernForm": "aku",
         "romanisation": "aku",
@@ -1157,10 +1157,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "k\u02b7at\u02b2\u0259",
-        "evolvedForm": "k\u02b7ati",
-        "modernForm": "k\u02b7ati",
-        "romanisation": "k\u00e4ti",
+        "protoForm": "kʷatʲə",
+        "evolvedForm": "kʷati",
+        "modernForm": "kʷati",
+        "romanisation": "käti",
         "english": [
             "decorative shell"
         ],
@@ -1169,7 +1169,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "t\u02b2\u0259l\u02b7a",
+        "protoForm": "tʲəlʷa",
         "evolvedForm": "tira",
         "modernForm": "tira",
         "romanisation": "tira",
@@ -1182,10 +1182,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "as\u02b2p\u02b2a",
-        "evolvedForm": "a\u0283ip\u02b2a",
-        "modernForm": "a\u0283ip\u02b2a",
-        "romanisation": "aship\u00e1",
+        "protoForm": "asʲpʲa",
+        "evolvedForm": "aʃipʲa",
+        "modernForm": "aʃipʲa",
+        "romanisation": "ashipá",
         "english": [
             "to fly"
         ],
@@ -1194,10 +1194,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "p\u0259m\u02b2ak\u02b7",
-        "evolvedForm": "pam\u02b2aku",
-        "modernForm": "pam\u02b2aku",
-        "romanisation": "pam\u00e1ku",
+        "protoForm": "pəmʲakʷ",
+        "evolvedForm": "pamʲaku",
+        "modernForm": "pamʲaku",
+        "romanisation": "pamáku",
         "english": [
             "to winnow"
         ],
@@ -1206,10 +1206,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "k\u02b2\u0259ma-k\u02b7\u0259m\u02b2a",
-        "evolvedForm": "kima-wam\u02b2a",
-        "modernForm": "kima-wam\u02b2a",
-        "romanisation": "kima-wam\u00e1",
+        "protoForm": "kʲəma-kʷəmʲa",
+        "evolvedForm": "kima-wamʲa",
+        "modernForm": "kima-wamʲa",
+        "romanisation": "kima-wamá",
         "english": [
             "of itchiness",
             "pins and needles",
@@ -1224,7 +1224,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "m\u0259k\u02b7t\u02b7\u0259-m\u0259k\u02b7t\u02b7\u0259",
+        "protoForm": "məkʷtʷə-məkʷtʷə",
         "evolvedForm": "mukutu-mukutu",
         "modernForm": "mukutu-mukutu",
         "romanisation": "mukutu-mukutu",
@@ -1237,10 +1237,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "al\u02b2t\u02b2a-al\u02b2t\u02b2a",
-        "evolvedForm": "alit\u02b2a-alit\u02b2a",
-        "modernForm": "alit\u02b2a-alit\u02b2a",
-        "romanisation": "alit\u00e1-alit\u00e1",
+        "protoForm": "alʲtʲa-alʲtʲa",
+        "evolvedForm": "alitʲa-alitʲa",
+        "modernForm": "alitʲa-alitʲa",
+        "romanisation": "alitá-alitá",
         "english": [
             "of celebration",
             "dancing",
@@ -1253,10 +1253,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "pat\u02b7a-pat\u02b7a",
-        "evolvedForm": "pat\u02b7a-pat\u02b7a",
-        "modernForm": "pat\u02b7a-pat\u02b7a",
-        "romanisation": "pat\u00e4-pat\u00e4",
+        "protoForm": "patʷa-patʷa",
+        "evolvedForm": "patʷa-patʷa",
+        "modernForm": "patʷa-patʷa",
+        "romanisation": "patä-patä",
         "english": [
             "of slow",
             "ponderous motion or action"
@@ -1266,10 +1266,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "k\u02b7at\u02b2k\u02b2\u0259-k\u02b2at\u02b7k\u02b7\u0259",
-        "evolvedForm": "k\u02b7atiki-jatuku",
-        "modernForm": "k\u02b7atiki-jatuku",
-        "romanisation": "k\u00e4tiki-jatuku",
+        "protoForm": "kʷatʲkʲə-kʲatʷkʷə",
+        "evolvedForm": "kʷatiki-jatuku",
+        "modernForm": "kʷatiki-jatuku",
+        "romanisation": "kätiki-jatuku",
         "english": [
             "of dizziness",
             "haziness",
@@ -1282,7 +1282,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "l\u02b7at\u02b7",
+        "protoForm": "lʷatʷ",
         "evolvedForm": "ratu",
         "modernForm": "ratu",
         "romanisation": "ratu",
@@ -1296,7 +1296,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "\u0259t\u02b2\u0259p",
+        "protoForm": "ətʲəp",
         "evolvedForm": "itipi",
         "modernForm": "itipi",
         "romanisation": "itipi",
@@ -1308,10 +1308,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "j\u0259mk\u02b2a",
-        "evolvedForm": "imik\u02b2a",
-        "modernForm": "imik\u02b2a",
-        "romanisation": "imik\u00e1",
+        "protoForm": "jəmkʲa",
+        "evolvedForm": "imikʲa",
+        "modernForm": "imikʲa",
+        "romanisation": "imiká",
         "english": [
             "raw",
             "unrefined",
@@ -1322,10 +1322,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "s\u02b7am\u02b2m\u02b2at\u02b2",
-        "evolvedForm": "s\u02b7amim\u02b2ati",
-        "modernForm": "s\u02b7amim\u02b2ati",
-        "romanisation": "s\u00e4mim\u00e1ti",
+        "protoForm": "sʷamʲmʲatʲ",
+        "evolvedForm": "sʷamimʲati",
+        "modernForm": "sʷamimʲati",
+        "romanisation": "sämimáti",
         "english": [
             "lungfish"
         ],
@@ -1334,7 +1334,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "k\u02b2\u0259m\u02b2",
+        "protoForm": "kʲəmʲ",
         "evolvedForm": "kimi",
         "modernForm": "kimi",
         "romanisation": "kimi",
@@ -1346,19 +1346,19 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "t\u02b2\u0259p\u0259",
+        "protoForm": "tʲəpə",
         "evolvedForm": "tipi",
         "modernForm": "tipi",
         "romanisation": "tipi",
         "english": [
-            "finger-ring"
+            "finger"
         ],
         "partOfSpeech": "noun",
         "notes": "",
         "createdBy": "Keras"
     },
     {
-        "protoForm": "\u0259s\u02b7\u0259t\u02b7",
+        "protoForm": "əsʷətʷ",
         "evolvedForm": "asutu",
         "modernForm": "asutu",
         "romanisation": "asutu",
@@ -1370,10 +1370,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "t\u02b7\u0259t\u02b2j\u0259",
-        "evolvedForm": "t\u02b7iti",
-        "modernForm": "t\u02b7iti",
-        "romanisation": "t\u00efti",
+        "protoForm": "tʷətʲjə",
+        "evolvedForm": "tʷiti",
+        "modernForm": "tʷiti",
+        "romanisation": "tïti",
         "english": [
             "sack"
         ],
@@ -1382,10 +1382,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "t\u02b2\u0259k\u02b7k\u02b2a",
-        "evolvedForm": "tikuk\u02b2a",
-        "modernForm": "tikuk\u02b2a",
-        "romanisation": "tikuk\u00e1",
+        "protoForm": "tʲəkʷkʲa",
+        "evolvedForm": "tikukʲa",
+        "modernForm": "tikukʲa",
+        "romanisation": "tikuká",
         "english": [
             "to strike",
             "to hit",
@@ -1396,7 +1396,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "l\u02b2\u0259t\u02b2t\u02b2\u0259",
+        "protoForm": "lʲətʲtʲə",
         "evolvedForm": "lititi",
         "modernForm": "lititi",
         "romanisation": "lititi",
@@ -1408,10 +1408,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "at\u02b2a",
-        "evolvedForm": "at\u02b2a",
-        "modernForm": "at\u02b2a",
-        "romanisation": "at\u00e1",
+        "protoForm": "atʲa",
+        "evolvedForm": "atʲa",
+        "modernForm": "atʲa",
+        "romanisation": "atá",
         "english": [
             "to do",
             "to perform an action"
@@ -1421,10 +1421,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "t\u02b7\u0259pk\u02b2a",
-        "evolvedForm": "t\u02b7apak\u02b2a",
-        "modernForm": "t\u02b7apak\u02b2a",
-        "romanisation": "t\u00e4pak\u00e1",
+        "protoForm": "tʷəpkʲa",
+        "evolvedForm": "tʷapakʲa",
+        "modernForm": "tʷapakʲa",
+        "romanisation": "täpaká",
         "english": [
             "to eat",
             "to drink",
@@ -1435,7 +1435,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "k\u02b2\u0259t\u02b7t\u02b2\u0259",
+        "protoForm": "kʲətʷtʲə",
         "evolvedForm": "kituti",
         "modernForm": "kituti",
         "romanisation": "kituti",
@@ -1447,10 +1447,10 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "k\u02b7an\u02b2\u0259m",
-        "evolvedForm": "k\u02b7animi",
-        "modernForm": "k\u02b7animi",
-        "romanisation": "k\u00e4nimi",
+        "protoForm": "kʷanʲəm",
+        "evolvedForm": "kʷanimi",
+        "modernForm": "kʷanimi",
+        "romanisation": "känimi",
         "english": [
             "date palm"
         ],
@@ -1459,7 +1459,7 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "ajm\u0259",
+        "protoForm": "ajmə",
         "evolvedForm": "ami",
         "modernForm": "ami",
         "romanisation": "ami",
@@ -1471,7 +1471,7 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "\u0259m\u02b2k\u02b2\u0259",
+        "protoForm": "əmʲkʲə",
         "evolvedForm": "imiki",
         "modernForm": "imiki",
         "romanisation": "imiki",
@@ -1483,7 +1483,7 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "j\u0259k\u02b2\u0259",
+        "protoForm": "jəkʲə",
         "evolvedForm": "iki",
         "modernForm": "iki",
         "romanisation": "iki",
@@ -1495,10 +1495,10 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "aws\u02b7as\u02b2",
-        "evolvedForm": "as\u02b7a\u0283i",
-        "modernForm": "as\u02b7a\u0283i",
-        "romanisation": "as\u00e4shi",
+        "protoForm": "awsʷasʲ",
+        "evolvedForm": "asʷaʃi",
+        "modernForm": "asʷaʃi",
+        "romanisation": "asäshi",
         "english": [
             "water plants"
         ],
@@ -1507,7 +1507,7 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "m\u02b2\u0259n\u02b2\u0259",
+        "protoForm": "mʲənʲə",
         "evolvedForm": "mini",
         "modernForm": "mini",
         "romanisation": "mini",
@@ -1519,7 +1519,7 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "j\u0259k\u02b2\u0259k\u02b7",
+        "protoForm": "jəkʲəkʷ",
         "evolvedForm": "ikiku",
         "modernForm": "ikiku",
         "romanisation": "ikiku",
@@ -1531,9 +1531,9 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "s\u02b2\u0259w\u0259-s\u02b2\u0259w\u0259",
-        "evolvedForm": "\u0283iwi-iwi",
-        "modernForm": "\u0283iwi-iwi",
+        "protoForm": "sʲəwə-sʲəwə",
+        "evolvedForm": "ʃiwi-iwi",
+        "modernForm": "ʃiwi-iwi",
         "romanisation": "shiwi-iwi",
         "english": [
             "the whistling sound of the evening wind through the jali"
@@ -1543,7 +1543,7 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "t\u02b2\u0259m-t\u02b2\u0259m",
+        "protoForm": "tʲəm-tʲəm",
         "evolvedForm": "timi-imi",
         "modernForm": "timi-imi",
         "romanisation": "timi-imi",
@@ -1555,22 +1555,22 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "k\u02b2\u0259j-k\u02b2\u0259j",
+        "protoForm": "kʲəj-kʲəj",
         "evolvedForm": "ki-ji",
         "modernForm": "ki-ji",
         "romanisation": "ki-ji",
         "english": [
-            "a baby bird\u2019s first song"
+            "a baby bird’s first song"
         ],
         "partOfSpeech": "ideophone",
         "notes": "Event",
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "j\u0259k\u02b7a-j\u0259k\u02b7a",
-        "evolvedForm": "ik\u02b7a-ik\u02b7a",
-        "modernForm": "ik\u02b7a-ik\u02b7a",
-        "romanisation": "ik\u00e4-ik\u00e4",
+        "protoForm": "jəkʷa-jəkʷa",
+        "evolvedForm": "ikʷa-ikʷa",
+        "modernForm": "ikʷa-ikʷa",
+        "romanisation": "ikä-ikä",
         "english": [
             "as quick as possible",
             "without care"
@@ -1580,10 +1580,10 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "s\u02b2\u0259mja",
-        "evolvedForm": "\u0283im\u02b2a",
-        "modernForm": "\u0283im\u02b2a",
-        "romanisation": "shim\u00e1",
+        "protoForm": "sʲəmja",
+        "evolvedForm": "ʃimʲa",
+        "modernForm": "ʃimʲa",
+        "romanisation": "shimá",
         "english": [
             "lentils"
         ],
@@ -1592,10 +1592,10 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "k\u02b7\u0259p\u02b2\u0259n\u02b2",
-        "evolvedForm": "k\u02b7ipini",
-        "modernForm": "k\u02b7ipini",
-        "romanisation": "k\u00efpini",
+        "protoForm": "kʷəpʲənʲ",
+        "evolvedForm": "kʷipini",
+        "modernForm": "kʷipini",
+        "romanisation": "kïpini",
         "english": [
             "cricket (insect)"
         ],
@@ -1604,10 +1604,10 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "l\u02b7ak\u02b7a",
-        "evolvedForm": "rak\u02b7a",
-        "modernForm": "rak\u02b7a",
-        "romanisation": "rak\u00e4",
+        "protoForm": "lʷakʷa",
+        "evolvedForm": "rakʷa",
+        "modernForm": "rakʷa",
+        "romanisation": "rakä",
         "english": [
             "cycad"
         ],
@@ -1616,10 +1616,10 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "t\u02b2\u0259mt\u02b2\u0259w",
-        "evolvedForm": "timit\u02b2u",
-        "modernForm": "timit\u02b2u",
-        "romanisation": "timit\u00fa",
+        "protoForm": "tʲəmtʲəw",
+        "evolvedForm": "timitʲu",
+        "modernForm": "timitʲu",
+        "romanisation": "timitú",
         "english": [
             "firewood"
         ],
@@ -1628,10 +1628,10 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "m\u02b2as\u02b7ak\u02b7",
-        "evolvedForm": "m\u02b2as\u02b7aku",
-        "modernForm": "m\u02b2as\u02b7aku",
-        "romanisation": "m\u00e1s\u00e4ku",
+        "protoForm": "mʲasʷakʷ",
+        "evolvedForm": "mʲasʷaku",
+        "modernForm": "mʲasʷaku",
+        "romanisation": "másäku",
         "english": [
             "cemetary",
             "graveyard"
@@ -1641,9 +1641,9 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "s\u02b2al\u02b2maj",
-        "evolvedForm": "\u0283alima",
-        "modernForm": "\u0283alima",
+        "protoForm": "sʲalʲmaj",
+        "evolvedForm": "ʃalima",
+        "modernForm": "ʃalima",
         "romanisation": "shalima",
         "english": [
             "grain flour"
@@ -1653,7 +1653,7 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "wawan\u02b2",
+        "protoForm": "wawanʲ",
         "evolvedForm": "wawani",
         "modernForm": "wawani",
         "romanisation": "wawani",
@@ -1666,10 +1666,10 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "s\u02b7at\u02b2\u0259",
-        "evolvedForm": "s\u02b7ati",
-        "modernForm": "s\u02b7ati",
-        "romanisation": "s\u00e4ti",
+        "protoForm": "sʷatʲə",
+        "evolvedForm": "sʷati",
+        "modernForm": "sʷati",
+        "romanisation": "säti",
         "english": [
             "to trip",
             "to fall"
@@ -1679,7 +1679,7 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "p\u0259n\u02b2\u0259t\u02b7",
+        "protoForm": "pənʲətʷ",
         "evolvedForm": "pinitu",
         "modernForm": "pinitu",
         "romanisation": "pinitu",
@@ -1691,7 +1691,7 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "p\u0259l\u02b7p\u0259m",
+        "protoForm": "pəlʷpəm",
         "evolvedForm": "pulupumu",
         "modernForm": "pulupumu",
         "romanisation": "pulupumu",
@@ -1703,7 +1703,7 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "mas\u02b7-mas\u02b7",
+        "protoForm": "masʷ-masʷ",
         "evolvedForm": "masu-masu",
         "modernForm": "masu-masu",
         "romanisation": "masu-masu",
@@ -1716,9 +1716,9 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "jas\u02b2-jas\u02b2",
-        "evolvedForm": "ja\u0283i-ja\u0283i",
-        "modernForm": "ja\u0283i-ja\u0283i",
+        "protoForm": "jasʲ-jasʲ",
+        "evolvedForm": "jaʃi-jaʃi",
+        "modernForm": "jaʃi-jaʃi",
         "romanisation": "jashi-jashi",
         "english": [
             "lizard tail dropping off",
@@ -1729,10 +1729,10 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "p\u02b2ak\u02b7-p\u02b2ak\u02b7",
-        "evolvedForm": "p\u02b2aku-jaku",
-        "modernForm": "p\u02b2aku-jaku",
-        "romanisation": "p\u00e1ku-jaku",
+        "protoForm": "pʲakʷ-pʲakʷ",
+        "evolvedForm": "pʲaku-jaku",
+        "modernForm": "pʲaku-jaku",
+        "romanisation": "páku-jaku",
         "english": [
             "arrogantly",
             "confidently"
@@ -1742,7 +1742,7 @@
         "createdBy": "Tinguish"
     },
     {
-        "protoForm": "pal\u02b7\u0259j",
+        "protoForm": "palʷəj",
         "evolvedForm": "pari",
         "modernForm": "pari",
         "romanisation": "pari",
@@ -1756,7 +1756,7 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "mam\u02b2\u0259t\u02b7",
+        "protoForm": "mamʲətʷ",
         "evolvedForm": "mamitu",
         "modernForm": "mamitu",
         "romanisation": "mamitu",
@@ -1769,10 +1769,10 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "n\u02b7ak\u02b7as\u02b7",
-        "evolvedForm": "n\u02b7ak\u02b7asu",
-        "modernForm": "n\u02b7ak\u02b7asu",
-        "romanisation": "n\u00e4k\u00e4su",
+        "protoForm": "nʷakʷasʷ",
+        "evolvedForm": "nʷakʷasu",
+        "modernForm": "nʷakʷasu",
+        "romanisation": "näkäsu",
         "english": [
             "egg"
         ],
@@ -1781,7 +1781,7 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "l\u02b2\u0259t\u02b7n\u02b7\u0259t\u02b7",
+        "protoForm": "lʲətʷnʷətʷ",
         "evolvedForm": "litunutu",
         "modernForm": "litunutu",
         "romanisation": "litunutu",
@@ -1794,7 +1794,7 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "t\u02b7\u0259n\u02b7",
+        "protoForm": "tʷənʷ",
         "evolvedForm": "tunu",
         "modernForm": "tunu",
         "romanisation": "tunu",
@@ -1807,10 +1807,10 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "n\u02b2as\u02b7\u0259",
-        "evolvedForm": "n\u02b2as\u02b7a",
-        "modernForm": "n\u02b2as\u02b7a",
-        "romanisation": "n\u00e1s\u00e4",
+        "protoForm": "nʲasʷə",
+        "evolvedForm": "nʲasʷa",
+        "modernForm": "nʲasʷa",
+        "romanisation": "násä",
         "english": [
             "to grow",
             "to age",
@@ -1821,7 +1821,7 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "\u0259t\u02b2\u0259k\u02b7",
+        "protoForm": "ətʲəkʷ",
         "evolvedForm": "itiku",
         "modernForm": "itiku",
         "romanisation": "itiku",
@@ -1833,10 +1833,10 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "t\u02b2ak\u02b7-t\u02b2ak\u02b7",
-        "evolvedForm": "t\u02b2aku-jaku",
-        "modernForm": "t\u02b2aku-jaku",
-        "romanisation": "t\u00e1ku-jaku",
+        "protoForm": "tʲakʷ-tʲakʷ",
+        "evolvedForm": "tʲaku-jaku",
+        "modernForm": "tʲaku-jaku",
+        "romanisation": "táku-jaku",
         "english": [
             "something hard cracking or breaking"
         ],
@@ -1845,9 +1845,9 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "s\u02b2\u0259s\u02b2-s\u02b2\u0259s\u02b2",
-        "evolvedForm": "\u0283i\u0283i-i\u0283i",
-        "modernForm": "\u0283i\u0283i-i\u0283i",
+        "protoForm": "sʲəsʲ-sʲəsʲ",
+        "evolvedForm": "ʃiʃi-iʃi",
+        "modernForm": "ʃiʃi-iʃi",
         "romanisation": "shishi-ishi",
         "english": [
             "slithering",
@@ -1858,10 +1858,10 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "k\u02b7\u0259t\u02b2\u0259",
-        "evolvedForm": "k\u02b7iti",
-        "modernForm": "k\u02b7iti",
-        "romanisation": "k\u00efti",
+        "protoForm": "kʷətʲə",
+        "evolvedForm": "kʷiti",
+        "modernForm": "kʷiti",
+        "romanisation": "kïti",
         "english": [
             "bird of prey",
             "raptor",
@@ -1875,10 +1875,10 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "m\u02b2as\u02b2l\u02b2a",
-        "evolvedForm": "m\u02b2a\u0283ira",
-        "modernForm": "m\u02b2a\u0283ira",
-        "romanisation": "m\u00e1shira",
+        "protoForm": "mʲasʲlʲa",
+        "evolvedForm": "mʲaʃira",
+        "modernForm": "mʲaʃira",
+        "romanisation": "máshira",
         "english": [
             "small parrot",
             "cockatoo",
@@ -1891,10 +1891,10 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "m\u02b2awt\u02b2at\u02b7",
-        "evolvedForm": "m\u02b2at\u02b7atu",
-        "modernForm": "m\u02b2at\u02b7atu",
-        "romanisation": "m\u00e1t\u00e4tu",
+        "protoForm": "mʲawtʲatʷ",
+        "evolvedForm": "mʲatʷatu",
+        "modernForm": "mʲatʷatu",
+        "romanisation": "mátätu",
         "english": [
             "monitor lizard",
             "goanna",
@@ -1905,7 +1905,7 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "amm\u0259t\u02b2",
+        "protoForm": "ammətʲ",
         "evolvedForm": "amamiti",
         "modernForm": "amamiti",
         "romanisation": "amamiti",
@@ -1917,10 +1917,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "n\u02b2aj",
-        "evolvedForm": "n\u02b2a",
-        "modernForm": "n\u02b2a",
-        "romanisation": "n\u00e1",
+        "protoForm": "nʲaj",
+        "evolvedForm": "nʲa",
+        "modernForm": "nʲa",
+        "romanisation": "ná",
         "english": [
             "this"
         ],
@@ -1929,10 +1929,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "k\u02b7\u0259l\u02b2a",
-        "evolvedForm": "k\u02b7ara",
-        "modernForm": "k\u02b7ara",
-        "romanisation": "k\u00e4ra",
+        "protoForm": "kʷəlʲa",
+        "evolvedForm": "kʷara",
+        "modernForm": "kʷara",
+        "romanisation": "kära",
         "english": [
             "handsome",
             "pretty"
@@ -1942,10 +1942,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "t\u02b2ak\u02b2a",
-        "evolvedForm": "t\u02b2ak\u02b2a",
-        "modernForm": "t\u02b2ak\u02b2a",
-        "romanisation": "t\u00e1k\u00e1",
+        "protoForm": "tʲakʲa",
+        "evolvedForm": "tʲakʲa",
+        "modernForm": "tʲakʲa",
+        "romanisation": "táká",
         "english": [
             "big"
         ],
@@ -1954,10 +1954,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "wak\u02b2ak\u02b2",
-        "evolvedForm": "wak\u02b2aki",
-        "modernForm": "wak\u02b2aki",
-        "romanisation": "wak\u00e1ki",
+        "protoForm": "wakʲakʲ",
+        "evolvedForm": "wakʲaki",
+        "modernForm": "wakʲaki",
+        "romanisation": "wakáki",
         "english": [
             "hot (temperature)"
         ],
@@ -1966,9 +1966,9 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "s\u02b2amam",
-        "evolvedForm": "\u0283amama",
-        "modernForm": "\u0283amama",
+        "protoForm": "sʲamam",
+        "evolvedForm": "ʃamama",
+        "modernForm": "ʃamama",
         "romanisation": "shamama",
         "english": [
             "true"
@@ -1978,7 +1978,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "aml\u02b7a",
+        "protoForm": "amlʷa",
         "evolvedForm": "amara",
         "modernForm": "amara",
         "romanisation": "amara",
@@ -1990,10 +1990,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "k\u02b7as\u02b2s\u02b2a",
-        "evolvedForm": "k\u02b7a\u0283i\u0283a",
-        "modernForm": "k\u02b7a\u0283i\u0283a",
-        "romanisation": "k\u00e4shisha",
+        "protoForm": "kʷasʲsʲa",
+        "evolvedForm": "kʷaʃiʃa",
+        "modernForm": "kʷaʃiʃa",
+        "romanisation": "käshisha",
         "english": [
             "bland"
         ],
@@ -2002,7 +2002,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "l\u02b2\u0259k\u02b7",
+        "protoForm": "lʲəkʷ",
         "evolvedForm": "liku",
         "modernForm": "liku",
         "romanisation": "liku",
@@ -2014,10 +2014,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "w\u0259k\u02b7\u0259",
-        "evolvedForm": "wak\u02b7a",
-        "modernForm": "wak\u02b7a",
-        "romanisation": "wak\u00e4",
+        "protoForm": "wəkʷə",
+        "evolvedForm": "wakʷa",
+        "modernForm": "wakʷa",
+        "romanisation": "wakä",
         "english": [
             "high"
         ],
@@ -2026,10 +2026,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "n\u02b2ak\u02b2a",
-        "evolvedForm": "n\u02b2ak\u02b2a",
-        "modernForm": "n\u02b2ak\u02b2a",
-        "romanisation": "n\u00e1k\u00e1",
+        "protoForm": "nʲakʲa",
+        "evolvedForm": "nʲakʲa",
+        "modernForm": "nʲakʲa",
+        "romanisation": "náká",
         "english": [
             "short"
         ],
@@ -2038,10 +2038,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "t\u02b7awaj",
-        "evolvedForm": "t\u02b7awa",
-        "modernForm": "t\u02b7awa",
-        "romanisation": "t\u00e4wa",
+        "protoForm": "tʷawaj",
+        "evolvedForm": "tʷawa",
+        "modernForm": "tʷawa",
+        "romanisation": "täwa",
         "english": [
             "turgid",
             "swollen"
@@ -2051,7 +2051,7 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "jal\u02b2t\u02b2\u0259",
+        "protoForm": "jalʲtʲə",
         "evolvedForm": "jaliti",
         "modernForm": "jaliti",
         "romanisation": "jaliti",
@@ -2064,9 +2064,9 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "m\u0259m\u0259s\u02b2",
-        "evolvedForm": "mami\u0283i",
-        "modernForm": "mami\u0283i",
+        "protoForm": "məməsʲ",
+        "evolvedForm": "mamiʃi",
+        "modernForm": "mamiʃi",
         "romanisation": "mamishi",
         "english": [
             "soft"
@@ -2076,7 +2076,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "\u0259l\u02b2\u0259t\u02b7",
+        "protoForm": "əlʲətʷ",
         "evolvedForm": "ilitu",
         "modernForm": "ilitu",
         "romanisation": "ilitu",
@@ -2088,10 +2088,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "k\u02b7aj\u0259",
-        "evolvedForm": "k\u02b7a",
-        "modernForm": "k\u02b7a",
-        "romanisation": "k\u00e4",
+        "protoForm": "kʷajə",
+        "evolvedForm": "kʷa",
+        "modernForm": "kʷa",
+        "romanisation": "kä",
         "english": [
             "easy"
         ],
@@ -2100,9 +2100,9 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "s\u02b2\u0259s\u02b7s\u02b7\u0259",
-        "evolvedForm": "\u0283isusu",
-        "modernForm": "\u0283isusu",
+        "protoForm": "sʲəsʷsʷə",
+        "evolvedForm": "ʃisusu",
+        "modernForm": "ʃisusu",
         "romanisation": "shisusu",
         "english": [
             "quiet"
@@ -2112,10 +2112,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "l\u02b2\u0259t\u02b2ak\u02b7",
-        "evolvedForm": "lit\u02b2aku",
-        "modernForm": "lit\u02b2aku",
-        "romanisation": "lit\u00e1ku",
+        "protoForm": "lʲətʲakʷ",
+        "evolvedForm": "litʲaku",
+        "modernForm": "litʲaku",
+        "romanisation": "litáku",
         "english": [
             "hungry"
         ],
@@ -2124,10 +2124,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "t\u02b2\u0259k\u02b7\u0259t\u02b2",
-        "evolvedForm": "tik\u02b7iti",
-        "modernForm": "tik\u02b7iti",
-        "romanisation": "tik\u00efti",
+        "protoForm": "tʲəkʷətʲ",
+        "evolvedForm": "tikʷiti",
+        "modernForm": "tikʷiti",
+        "romanisation": "tikïti",
         "english": [
             "clear"
         ],
@@ -2136,7 +2136,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "wamm\u02b2\u0259t\u02b7",
+        "protoForm": "wammʲətʷ",
         "evolvedForm": "wamamitu",
         "modernForm": "wamamitu",
         "romanisation": "wamamitu",
@@ -2148,10 +2148,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "k\u02b7\u0259k\u02b2",
-        "evolvedForm": "k\u02b7iki",
-        "modernForm": "k\u02b7iki",
-        "romanisation": "k\u00efki",
+        "protoForm": "kʷəkʲ",
+        "evolvedForm": "kʷiki",
+        "modernForm": "kʷiki",
+        "romanisation": "kïki",
         "english": [
             "wild"
         ],
@@ -2160,7 +2160,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "an\u02b2k\u02b2\u0259t\u02b2",
+        "protoForm": "anʲkʲətʲ",
         "evolvedForm": "anikiti",
         "modernForm": "anikiti",
         "romanisation": "anikiti",
@@ -2172,7 +2172,7 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "mamak\u02b2",
+        "protoForm": "mamakʲ",
         "evolvedForm": "mamaki",
         "modernForm": "mamaki",
         "romanisation": "mamaki",
@@ -2184,9 +2184,9 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "s\u02b2ak\u02b7pa",
-        "evolvedForm": "\u0283akupa",
-        "modernForm": "\u0283akupa",
+        "protoForm": "sʲakʷpa",
+        "evolvedForm": "ʃakupa",
+        "modernForm": "ʃakupa",
         "romanisation": "shakupa",
         "english": [
             "brave"
@@ -2196,9 +2196,9 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "k\u02b2\u0259s\u02b2s\u02b2\u0259j",
-        "evolvedForm": "ki\u0283i\u0283i",
-        "modernForm": "ki\u0283i\u0283i",
+        "protoForm": "kʲəsʲsʲəj",
+        "evolvedForm": "kiʃiʃi",
+        "modernForm": "kiʃiʃi",
         "romanisation": "kishishi",
         "english": [
             "sharp"
@@ -2208,10 +2208,10 @@
         "createdBy": "Miles"
     },
     {
-        "protoForm": "an\u02b7n\u02b7am",
-        "evolvedForm": "anun\u02b7ama",
-        "modernForm": "anun\u02b7ama",
-        "romanisation": "anun\u00e4ma",
+        "protoForm": "anʷnʷam",
+        "evolvedForm": "anunʷama",
+        "modernForm": "anunʷama",
+        "romanisation": "anunäma",
         "english": [
             "weak"
         ],
@@ -2220,7 +2220,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "p\u0259jj\u0259k\u02b7",
+        "protoForm": "pəjjəkʷ",
         "evolvedForm": "paku",
         "modernForm": "paku",
         "romanisation": "paku",
@@ -2232,10 +2232,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "s\u02b7an\u02b7\u0259n\u02b2",
-        "evolvedForm": "s\u02b7an\u02b7ani",
-        "modernForm": "s\u02b7an\u02b7ani",
-        "romanisation": "s\u00e4n\u00e4ni",
+        "protoForm": "sʷanʷənʲ",
+        "evolvedForm": "sʷanʷani",
+        "modernForm": "sʷanʷani",
+        "romanisation": "sänäni",
         "english": [
             "ugly"
         ],
@@ -2244,7 +2244,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "mal\u02b7a",
+        "protoForm": "malʷa",
         "evolvedForm": "mara",
         "modernForm": "mara",
         "romanisation": "mara",
@@ -2256,10 +2256,10 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "mam\u02b2aw",
-        "evolvedForm": "mam\u02b2a",
-        "modernForm": "mam\u02b2a",
-        "romanisation": "mam\u00e1",
+        "protoForm": "mamʲaw",
+        "evolvedForm": "mamʲa",
+        "modernForm": "mamʲa",
+        "romanisation": "mamá",
         "english": [
             "cold"
         ],
@@ -2268,10 +2268,10 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "m\u0259t\u02b7\u0259",
-        "evolvedForm": "mat\u02b7a",
-        "modernForm": "mat\u02b7a",
-        "romanisation": "mat\u00e4",
+        "protoForm": "mətʷə",
+        "evolvedForm": "matʷa",
+        "modernForm": "matʷa",
+        "romanisation": "matä",
         "english": [
             "false"
         ],
@@ -2280,9 +2280,9 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "t\u02b2\u0259ms\u02b2\u0259k\u02b2",
-        "evolvedForm": "timi\u0283iki",
-        "modernForm": "timi\u0283iki",
+        "protoForm": "tʲəmsʲəkʲ",
+        "evolvedForm": "timiʃiki",
+        "modernForm": "timiʃiki",
         "romanisation": "timishiki",
         "english": [
             "sweet"
@@ -2292,10 +2292,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "t\u02b7\u0259ww\u0259n\u02b7",
-        "evolvedForm": "t\u02b7awunu",
-        "modernForm": "t\u02b7awunu",
-        "romanisation": "t\u00e4wunu",
+        "protoForm": "tʷəwwənʷ",
+        "evolvedForm": "tʷawunu",
+        "modernForm": "tʷawunu",
+        "romanisation": "täwunu",
         "english": [
             "tasty"
         ],
@@ -2304,10 +2304,10 @@
         "createdBy": "The Autonomous Spirit of Google so-called Docs"
     },
     {
-        "protoForm": "k\u02b7\u0259s\u02b2s\u02b2a",
-        "evolvedForm": "k\u02b7i\u0283i\u0283a",
-        "modernForm": "k\u02b7i\u0283i\u0283a",
-        "romanisation": "k\u00efshisha",
+        "protoForm": "kʷəsʲsʲa",
+        "evolvedForm": "kʷiʃiʃa",
+        "modernForm": "kʷiʃiʃa",
+        "romanisation": "kïshisha",
         "english": [
             "dry"
         ],
@@ -2316,7 +2316,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "p\u0259l\u02b2wa",
+        "protoForm": "pəlʲwa",
         "evolvedForm": "para",
         "modernForm": "para",
         "romanisation": "para",
@@ -2328,7 +2328,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "k\u02b7\u0259t\u02b7n\u02b2\u0259",
+        "protoForm": "kʷətʷnʲə",
         "evolvedForm": "kutuni",
         "modernForm": "kutuni",
         "romanisation": "kutuni",
@@ -2340,7 +2340,7 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "maw\u0259",
+        "protoForm": "mawə",
         "evolvedForm": "mawa",
         "modernForm": "mawa",
         "romanisation": "mawa",
@@ -2353,7 +2353,7 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "\u0259k\u02b7m\u0259",
+        "protoForm": "əkʷmə",
         "evolvedForm": "ukumu",
         "modernForm": "ukumu",
         "romanisation": "ukumu",
@@ -2365,10 +2365,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "jak\u02b2k\u02b2a",
-        "evolvedForm": "jakik\u02b2a",
-        "modernForm": "jakik\u02b2a",
-        "romanisation": "jakik\u00e1",
+        "protoForm": "jakʲkʲa",
+        "evolvedForm": "jakikʲa",
+        "modernForm": "jakikʲa",
+        "romanisation": "jakiká",
         "english": [
             "hard",
             "firm"
@@ -2378,10 +2378,10 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "p\u02b2ak\u02b7w\u0259",
-        "evolvedForm": "p\u02b2ak\u02b7a",
-        "modernForm": "p\u02b2ak\u02b7a",
-        "romanisation": "p\u00e1k\u00e4",
+        "protoForm": "pʲakʷwə",
+        "evolvedForm": "pʲakʷa",
+        "modernForm": "pʲakʷa",
+        "romanisation": "pákä",
         "english": [
             "rotten"
         ],
@@ -2390,7 +2390,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "\u0259wjan\u02b2",
+        "protoForm": "əwjanʲ",
         "evolvedForm": "awani",
         "modernForm": "awani",
         "romanisation": "awani",
@@ -2402,7 +2402,7 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "\u0259pl\u02b2\u0259k\u02b2",
+        "protoForm": "əplʲəkʲ",
         "evolvedForm": "apiliki",
         "modernForm": "apiliki",
         "romanisation": "apiliki",
@@ -2426,10 +2426,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "p\u02b2\u0259k\u02b7ap\u02b2",
-        "evolvedForm": "pik\u02b7api",
-        "modernForm": "pik\u02b7api",
-        "romanisation": "pik\u00e4pi",
+        "protoForm": "pʲəkʷapʲ",
+        "evolvedForm": "pikʷapi",
+        "modernForm": "pikʷapi",
+        "romanisation": "pikäpi",
         "english": [
             "opaque",
             "turbid"
@@ -2439,10 +2439,10 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "m\u02b2\u0259n\u02b7\u0259t\u02b2",
-        "evolvedForm": "min\u02b7iti",
-        "modernForm": "min\u02b7iti",
-        "romanisation": "min\u00efti",
+        "protoForm": "mʲənʷətʲ",
+        "evolvedForm": "minʷiti",
+        "modernForm": "minʷiti",
+        "romanisation": "minïti",
         "english": [
             "pleasant-smelling"
         ],
@@ -2451,7 +2451,7 @@
         "createdBy": "Keras"
     },
     {
-        "protoForm": "l\u02b7awam\u02b2",
+        "protoForm": "lʷawamʲ",
         "evolvedForm": "rawami",
         "modernForm": "rawami",
         "romanisation": "rawami",
@@ -2463,10 +2463,10 @@
         "createdBy": "Magpie"
     },
     {
-        "protoForm": "\u0259wk\u02b2am",
-        "evolvedForm": "ak\u02b7ama",
-        "modernForm": "ak\u02b7ama",
-        "romanisation": "ak\u00e4ma",
+        "protoForm": "əwkʲam",
+        "evolvedForm": "akʷama",
+        "modernForm": "akʷama",
+        "romanisation": "akäma",
         "english": [
             "clean"
         ],
@@ -2475,7 +2475,7 @@
         "createdBy": "Caleb"
     },
     {
-        "protoForm": "t\u02b7\u0259t\u02b7s\u02b7\u0259t\u02b7",
+        "protoForm": "tʷətʷsʷətʷ",
         "evolvedForm": "tutusutu",
         "modernForm": "tutusutu",
         "romanisation": "tutusutu",
@@ -2487,10 +2487,10 @@
         "createdBy": "keras"
     },
     {
-        "protoForm": "t\u02b2am\u02b2a",
-        "evolvedForm": "t\u02b2am\u02b2a",
-        "modernForm": "t\u02b2am\u02b2a",
-        "romanisation": "t\u00e1m\u00e1",
+        "protoForm": "tʲamʲa",
+        "evolvedForm": "tʲamʲa",
+        "modernForm": "tʲamʲa",
+        "romanisation": "támá",
         "english": [
             "afraid"
         ],
@@ -2499,10 +2499,10 @@
         "createdBy": "Jonathan"
     },
     {
-        "protoForm": "k\u02b7awjan\u02b7",
-        "evolvedForm": "k\u02b7awanu",
-        "modernForm": "k\u02b7awanu",
-        "romanisation": "k\u00e4wanu",
+        "protoForm": "kʷawjanʷ",
+        "evolvedForm": "kʷawanu",
+        "modernForm": "kʷawanu",
+        "romanisation": "käwanu",
         "english": [
             "dull"
         ],
@@ -2523,9 +2523,9 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-as\u02b2",
-        "evolvedForm": "a\u0283i",
-        "modernForm": "a\u0283i",
+        "protoForm": "-asʲ",
+        "evolvedForm": "aʃi",
+        "modernForm": "aʃi",
         "romanisation": "ashi",
         "english": [
             "ergative"
@@ -2535,10 +2535,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-n\u02b7\u0259",
-        "evolvedForm": "n\u02b7a",
-        "modernForm": "n\u02b7a",
-        "romanisation": "n\u00e4",
+        "protoForm": "-nʷə",
+        "evolvedForm": "nʷa",
+        "modernForm": "nʷa",
+        "romanisation": "nä",
         "english": [
             "genitive"
         ],
@@ -2547,7 +2547,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-k\u02b2\u0259j",
+        "protoForm": "-kʲəj",
         "evolvedForm": "ki",
         "modernForm": "ki",
         "romanisation": "ki",
@@ -2559,7 +2559,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-l\u02b2at\u02b2\u0259",
+        "protoForm": "-lʲatʲə",
         "evolvedForm": "rati",
         "modernForm": "rati",
         "romanisation": "rati",
@@ -2571,10 +2571,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-k\u02b7awa",
-        "evolvedForm": "k\u02b7awa",
-        "modernForm": "k\u02b7awa",
-        "romanisation": "k\u00e4wa",
+        "protoForm": "-kʷawa",
+        "evolvedForm": "kʷawa",
+        "modernForm": "kʷawa",
+        "romanisation": "käwa",
         "english": [
             "locative"
         ],
@@ -2583,10 +2583,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-t\u02b2\u0259p\u02b2a",
-        "evolvedForm": "tip\u02b2a",
-        "modernForm": "tip\u02b2a",
-        "romanisation": "tip\u00e1",
+        "protoForm": "-tʲəpʲa",
+        "evolvedForm": "tipʲa",
+        "modernForm": "tipʲa",
+        "romanisation": "tipá",
         "english": [
             "ablative"
         ],
@@ -2595,10 +2595,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-t\u02b7ajat\u02b2",
-        "evolvedForm": "t\u02b7ajati",
-        "modernForm": "t\u02b7ajati",
-        "romanisation": "t\u00e4jati",
+        "protoForm": "-tʷajatʲ",
+        "evolvedForm": "tʷajati",
+        "modernForm": "tʷajati",
+        "romanisation": "täjati",
         "english": [
             "allative"
         ],
@@ -2619,7 +2619,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "w\u0259k\u02b7",
+        "protoForm": "wəkʷ",
         "evolvedForm": "wuku",
         "modernForm": "wuku",
         "romanisation": "wuku",
@@ -2631,10 +2631,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "k\u02b2as\u02b2",
-        "evolvedForm": "k\u02b2a\u0283i",
-        "modernForm": "k\u02b2a\u0283i",
-        "romanisation": "k\u00e1shi",
+        "protoForm": "kʲasʲ",
+        "evolvedForm": "kʲaʃi",
+        "modernForm": "kʲaʃi",
+        "romanisation": "káshi",
         "english": [
             "1st dual disharmonic exclusive"
         ],
@@ -2643,10 +2643,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "m\u02b2ak\u02b2",
-        "evolvedForm": "m\u02b2aki",
-        "modernForm": "m\u02b2aki",
-        "romanisation": "m\u00e1ki",
+        "protoForm": "mʲakʲ",
+        "evolvedForm": "mʲaki",
+        "modernForm": "mʲaki",
+        "romanisation": "máki",
         "english": [
             "1st pural harmonic exclusive"
         ],
@@ -2655,10 +2655,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "t\u02b2\u0259k\u02b7\u0259",
-        "evolvedForm": "tik\u02b7i",
-        "modernForm": "tik\u02b7i",
-        "romanisation": "tik\u00ef",
+        "protoForm": "tʲəkʷə",
+        "evolvedForm": "tikʷi",
+        "modernForm": "tikʷi",
+        "romanisation": "tikï",
         "english": [
             "1st plural disharmonic exclusive"
         ],
@@ -2667,7 +2667,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "k\u02b2\u0259pa",
+        "protoForm": "kʲəpa",
         "evolvedForm": "kipa",
         "modernForm": "kipa",
         "romanisation": "kipa",
@@ -2679,10 +2679,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "s\u02b7ams\u02b2a",
-        "evolvedForm": "s\u02b7ama\u0283a",
-        "modernForm": "s\u02b7ama\u0283a",
-        "romanisation": "s\u00e4masha",
+        "protoForm": "sʷamsʲa",
+        "evolvedForm": "sʷamaʃa",
+        "modernForm": "sʷamaʃa",
+        "romanisation": "sämasha",
         "english": [
             "1st dual disharmonic inclusive"
         ],
@@ -2691,7 +2691,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "p\u02b2\u0259k\u02b2\u0259",
+        "protoForm": "pʲəkʲə",
         "evolvedForm": "piki",
         "modernForm": "piki",
         "romanisation": "piki",
@@ -2703,7 +2703,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "m\u0259t\u02b2m\u0259",
+        "protoForm": "mətʲmə",
         "evolvedForm": "mitimi",
         "modernForm": "mitimi",
         "romanisation": "mitimi",
@@ -2715,7 +2715,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "jat\u02b2\u0259k\u02b2",
+        "protoForm": "jatʲəkʲ",
         "evolvedForm": "jatiki",
         "modernForm": "jatiki",
         "romanisation": "jatiki",
@@ -2727,10 +2727,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "\u0259l\u02b2k\u02b2a",
-        "evolvedForm": "ilik\u02b2a",
-        "modernForm": "ilik\u02b2a",
-        "romanisation": "ilik\u00e1",
+        "protoForm": "əlʲkʲa",
+        "evolvedForm": "ilikʲa",
+        "modernForm": "ilikʲa",
+        "romanisation": "iliká",
         "english": [
             "2nd singular disharmonic"
         ],
@@ -2751,7 +2751,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "j\u0259m\u02b2\u0259",
+        "protoForm": "jəmʲə",
         "evolvedForm": "imi",
         "modernForm": "imi",
         "romanisation": "imi",
@@ -2763,9 +2763,9 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "l\u02b7at\u02b2s\u02b2\u0259",
-        "evolvedForm": "rati\u0283i",
-        "modernForm": "rati\u0283i",
+        "protoForm": "lʷatʲsʲə",
+        "evolvedForm": "ratiʃi",
+        "modernForm": "ratiʃi",
         "romanisation": "ratishi",
         "english": [
             "2nd plural harmonic"
@@ -2775,10 +2775,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "k\u02b2\u0259s\u02b7j\u0259",
-        "evolvedForm": "kis\u02b7i",
-        "modernForm": "kis\u02b7i",
-        "romanisation": "kis\u00ef",
+        "protoForm": "kʲəsʷjə",
+        "evolvedForm": "kisʷi",
+        "modernForm": "kisʷi",
+        "romanisation": "kisï",
         "english": [
             "2nd plural disharmonic"
         ],
@@ -2787,9 +2787,9 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "m\u0259s\u02b2",
-        "evolvedForm": "mi\u0283i",
-        "modernForm": "mi\u0283i",
+        "protoForm": "məsʲ",
+        "evolvedForm": "miʃi",
+        "modernForm": "miʃi",
         "romanisation": "mishi",
         "english": [
             "3rd singular harmonic"
@@ -2799,10 +2799,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "\u0259t\u02b7\u0259",
-        "evolvedForm": "at\u02b7a",
-        "modernForm": "at\u02b7a",
-        "romanisation": "at\u00e4",
+        "protoForm": "ətʷə",
+        "evolvedForm": "atʷa",
+        "modernForm": "atʷa",
+        "romanisation": "atä",
         "english": [
             "3rd singular disharmonic"
         ],
@@ -2811,10 +2811,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "m\u02b2\u0259t\u02b7\u0259k\u02b7",
-        "evolvedForm": "mit\u02b7iku",
-        "modernForm": "mit\u02b7iku",
-        "romanisation": "mit\u00efku",
+        "protoForm": "mʲətʷəkʷ",
+        "evolvedForm": "mitʷiku",
+        "modernForm": "mitʷiku",
+        "romanisation": "mitïku",
         "english": [
             "3rd dual harmonic"
         ],
@@ -2823,10 +2823,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "t\u02b7\u0259k\u02b2\u0259",
-        "evolvedForm": "t\u02b7iki",
-        "modernForm": "t\u02b7iki",
-        "romanisation": "t\u00efki",
+        "protoForm": "tʷəkʲə",
+        "evolvedForm": "tʷiki",
+        "modernForm": "tʷiki",
+        "romanisation": "tïki",
         "english": [
             "3rd dual disharmonic"
         ],
@@ -2835,7 +2835,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "l\u02b2\u0259n\u02b2\u0259m",
+        "protoForm": "lʲənʲəm",
         "evolvedForm": "linimi",
         "modernForm": "linimi",
         "romanisation": "linimi",
@@ -2847,10 +2847,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "\u0259s\u02b7a",
-        "evolvedForm": "as\u02b7a",
-        "modernForm": "as\u02b7a",
-        "romanisation": "as\u00e4",
+        "protoForm": "əsʷa",
+        "evolvedForm": "asʷa",
+        "modernForm": "asʷa",
+        "romanisation": "asä",
         "english": [
             "3rd plural disharmonic"
         ],
@@ -2859,12 +2859,12 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "\u0259t\u02b2-",
+        "protoForm": "ətʲ-",
         "evolvedForm": "iti",
         "modernForm": "iti",
         "romanisation": "iti",
         "english": [
-            "relativizer 'that Xes\u2019"
+            "relativizer 'that Xes’"
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
@@ -2883,7 +2883,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "aw\u0259-",
+        "protoForm": "awə-",
         "evolvedForm": "awa",
         "modernForm": "awa",
         "romanisation": "awa",
@@ -2895,7 +2895,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-k\u02b2\u0259-",
+        "protoForm": "-kʲə-",
         "evolvedForm": "ki",
         "modernForm": "ki",
         "romanisation": "ki",
@@ -2907,10 +2907,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-n\u02b7\u0259t\u02b2-",
-        "evolvedForm": "n\u02b7iti",
-        "modernForm": "n\u02b7iti",
-        "romanisation": "n\u00efti",
+        "protoForm": "-nʷətʲ-",
+        "evolvedForm": "nʷiti",
+        "modernForm": "nʷiti",
+        "romanisation": "nïti",
         "english": [
             "while X, simultaneous"
         ],
@@ -2919,9 +2919,9 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-s\u02b2\u0259m\u02b2\u0259-",
-        "evolvedForm": "\u0283imi",
-        "modernForm": "\u0283imi",
+        "protoForm": "-sʲəmʲə-",
+        "evolvedForm": "ʃimi",
+        "modernForm": "ʃimi",
         "romanisation": "shimi",
         "english": [
             "inchoative"
@@ -2931,10 +2931,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-at\u02b2t\u02b2an\u02b7-",
-        "evolvedForm": "atit\u02b2anu",
-        "modernForm": "atit\u02b2anu",
-        "romanisation": "atit\u00e1nu",
+        "protoForm": "-atʲtʲanʷ-",
+        "evolvedForm": "atitʲanu",
+        "modernForm": "atitʲanu",
+        "romanisation": "atitánu",
         "english": [
             "consequential"
         ],
@@ -2943,10 +2943,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-m\u02b2a-",
-        "evolvedForm": "m\u02b2a",
-        "modernForm": "m\u02b2a",
-        "romanisation": "m\u00e1",
+        "protoForm": "-mʲa-",
+        "evolvedForm": "mʲa",
+        "modernForm": "mʲa",
+        "romanisation": "má",
         "english": [
             "interrogative"
         ],
@@ -2955,7 +2955,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-l\u02b7ak\u02b7-",
+        "protoForm": "-lʷakʷ-",
         "evolvedForm": "raku",
         "modernForm": "raku",
         "romanisation": "raku",
@@ -2967,7 +2967,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-l\u02b2an\u02b2-",
+        "protoForm": "-lʲanʲ-",
         "evolvedForm": "rani",
         "modernForm": "rani",
         "romanisation": "rani",
@@ -2979,10 +2979,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-s\u02b7ama-",
-        "evolvedForm": "s\u02b7ama",
-        "modernForm": "s\u02b7ama",
-        "romanisation": "s\u00e4ma",
+        "protoForm": "-sʷama-",
+        "evolvedForm": "sʷama",
+        "modernForm": "sʷama",
+        "romanisation": "säma",
         "english": [
             "heresay"
         ],
@@ -2991,10 +2991,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-p\u0259p\u02b2a-",
-        "evolvedForm": "pap\u02b2a",
-        "modernForm": "pap\u02b2a",
-        "romanisation": "pap\u00e1",
+        "protoForm": "-pəpʲa-",
+        "evolvedForm": "papʲa",
+        "modernForm": "papʲa",
+        "romanisation": "papá",
         "english": [
             "imperative"
         ],
@@ -3003,10 +3003,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-k\u02b2awat\u02b2-",
-        "evolvedForm": "k\u02b2awati",
-        "modernForm": "k\u02b2awati",
-        "romanisation": "k\u00e1wati",
+        "protoForm": "-kʲawatʲ-",
+        "evolvedForm": "kʲawati",
+        "modernForm": "kʲawati",
+        "romanisation": "káwati",
         "english": [
             "prohibitive"
         ],
@@ -3015,7 +3015,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-k\u02b2\u0259t\u02b7-",
+        "protoForm": "-kʲətʷ-",
         "evolvedForm": "kitu",
         "modernForm": "kitu",
         "romanisation": "kitu",
@@ -3030,9 +3030,9 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-s\u02b2as\u02b7-",
-        "evolvedForm": "\u0283asu",
-        "modernForm": "\u0283asu",
+        "protoForm": "-sʲasʷ-",
+        "evolvedForm": "ʃasu",
+        "modernForm": "ʃasu",
         "romanisation": "shasu",
         "english": [
             "above",
@@ -3046,10 +3046,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-n\u02b2a-",
-        "evolvedForm": "n\u02b2a",
-        "modernForm": "n\u02b2a",
-        "romanisation": "n\u00e1",
+        "protoForm": "-nʲa-",
+        "evolvedForm": "nʲa",
+        "modernForm": "nʲa",
+        "romanisation": "ná",
         "english": [
             "through",
             "alongside",
@@ -3060,7 +3060,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-awak\u02b2-",
+        "protoForm": "-awakʲ-",
         "evolvedForm": "awaki",
         "modernForm": "awaki",
         "romanisation": "awaki",
@@ -3072,10 +3072,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-k\u02b7ama-",
-        "evolvedForm": "k\u02b7ama",
-        "modernForm": "k\u02b7ama",
-        "romanisation": "k\u00e4ma",
+        "protoForm": "-kʷama-",
+        "evolvedForm": "kʷama",
+        "modernForm": "kʷama",
+        "romanisation": "käma",
         "english": [
             "desirative"
         ],
@@ -3084,10 +3084,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-t\u02b7ak\u02b7-",
-        "evolvedForm": "t\u02b7aku",
-        "modernForm": "t\u02b7aku",
-        "romanisation": "t\u00e4ku",
+        "protoForm": "-tʷakʷ-",
+        "evolvedForm": "tʷaku",
+        "modernForm": "tʷaku",
+        "romanisation": "täku",
         "english": [
             "negator"
         ],
@@ -3108,10 +3108,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-t\u02b7a-",
-        "evolvedForm": "t\u02b7a",
-        "modernForm": "t\u02b7a",
-        "romanisation": "t\u00e4",
+        "protoForm": "-tʷa-",
+        "evolvedForm": "tʷa",
+        "modernForm": "tʷa",
+        "romanisation": "tä",
         "english": [
             "causative"
         ],
@@ -3120,7 +3120,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-l\u02b2aw-",
+        "protoForm": "-lʲaw-",
         "evolvedForm": "ra",
         "modernForm": "ra",
         "romanisation": "ra",
@@ -3132,7 +3132,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-k\u02b2\u0259m\u02b2-",
+        "protoForm": "-kʲəmʲ-",
         "evolvedForm": "kimi",
         "modernForm": "kimi",
         "romanisation": "kimi",
@@ -3144,10 +3144,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-s\u02b7\u0259n\u02b2-",
-        "evolvedForm": "s\u02b7ini",
-        "modernForm": "s\u02b7ini",
-        "romanisation": "s\u00efni",
+        "protoForm": "-sʷənʲ-",
+        "evolvedForm": "sʷini",
+        "modernForm": "sʷini",
+        "romanisation": "sïni",
         "english": [
             "benefactive applicative"
         ],
@@ -3156,10 +3156,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-m\u0259k\u02b7aj-",
-        "evolvedForm": "mak\u02b7a",
-        "modernForm": "mak\u02b7a",
-        "romanisation": "mak\u00e4",
+        "protoForm": "-məkʷaj-",
+        "evolvedForm": "makʷa",
+        "modernForm": "makʷa",
+        "romanisation": "makä",
         "english": [
             "abilitative"
         ],
@@ -3168,7 +3168,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-n\u02b2\u0259n\u02b7-",
+        "protoForm": "-nʲənʷ-",
         "evolvedForm": "ninu",
         "modernForm": "ninu",
         "romanisation": "ninu",
@@ -3180,10 +3180,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-t\u02b7am\u02b2-",
-        "evolvedForm": "t\u02b7ami",
-        "modernForm": "t\u02b7ami",
-        "romanisation": "t\u00e4mi",
+        "protoForm": "-tʷamʲ-",
+        "evolvedForm": "tʷami",
+        "modernForm": "tʷami",
+        "romanisation": "tämi",
         "english": [
             "distant past"
         ],
@@ -3192,7 +3192,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-l\u02b7aj-",
+        "protoForm": "-lʷaj-",
         "evolvedForm": "ra",
         "modernForm": "ra",
         "romanisation": "ra",
@@ -3204,7 +3204,7 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-l\u02b2\u0259",
+        "protoForm": "-lʲə",
         "evolvedForm": "li",
         "modernForm": "li",
         "romanisation": "li",
@@ -3216,10 +3216,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-t\u02b2al\u02b2",
-        "evolvedForm": "t\u02b2ali",
-        "modernForm": "t\u02b2ali",
-        "romanisation": "t\u00e1li",
+        "protoForm": "-tʲalʲ",
+        "evolvedForm": "tʲali",
+        "modernForm": "tʲali",
+        "romanisation": "táli",
         "english": [
             "cessative"
         ],
@@ -3228,10 +3228,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "-k\u02b7aw",
-        "evolvedForm": "k\u02b7a",
-        "modernForm": "k\u02b7a",
-        "romanisation": "k\u00e4",
+        "protoForm": "-kʷaw",
+        "evolvedForm": "kʷa",
+        "modernForm": "kʷa",
+        "romanisation": "kä",
         "english": [
             "perfective"
         ],
@@ -3240,10 +3240,10 @@
         "createdBy": "LHAB"
     },
     {
-        "protoForm": "l\u02b2ajn\u02b2a",
-        "evolvedForm": "ran\u02b2a",
-        "modernForm": "ran\u02b2a",
-        "romanisation": "ran\u00e1",
+        "protoForm": "lʲajnʲa",
+        "evolvedForm": "ranʲa",
+        "modernForm": "ranʲa",
+        "romanisation": "raná",
         "english": [
             "late"
         ],
@@ -3252,10 +3252,10 @@
         "createdBy": "Jake"
     },
     {
-        "protoForm": "jawn\u02b2a",
-        "evolvedForm": "jan\u02b7a",
-        "modernForm": "jan\u02b7a",
-        "romanisation": "jan\u00e4",
+        "protoForm": "jawnʲa",
+        "evolvedForm": "janʷa",
+        "modernForm": "janʷa",
+        "romanisation": "janä",
         "english": [
             "early"
         ],

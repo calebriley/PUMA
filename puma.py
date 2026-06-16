@@ -18,8 +18,8 @@ def convert_csv_to_json(input_filename: str, output_filename: str):
               "notes": row[3],
               "createdBy": row[4],
             })
-        with open(output_filename, mode="w") as output_file:
-            output_file.writelines(json.dumps(vocab, indent=4))
+        with open(output_filename, mode="w", encoding='ut8f') as output_file:
+            json.dump(vocab, output_file, indent=4, ensure_ascii=False)
 
 def convert_json_to_flat_list(input_filename: str, output_filename: str):
     vocab = []
@@ -50,8 +50,8 @@ def apply_evolved_forms(input_filename: str, output_filename: str):
             if entry["modernForm"] is None:
                 entry["modernForm"] = vocab[entry["protoForm"]]
     
-    with open(output_filename, mode="w") as output_file:
-        output_file.writelines(json.dumps(decoded, indent=4))
+    with open(output_filename, mode="w", encoding="utf8") as output_file:
+        json.dump(decoded, output_file, indent=4, ensure_ascii=False)
 
 def romanise_form(form: str) -> str:
     form = form.replace("ʷa", "ä")
@@ -70,8 +70,8 @@ def romanise_json(filename: str):
         if entry["modernForm"]:
             entry["romanisation"] = romanise_form(entry["modernForm"])
     
-    with open(filename, mode="w") as file:
-        file.writelines(json.dumps(decoded, indent=4))
+    with open(filename, mode="w", encoding="utf8") as file:
+        json.dump(decoded, file, indent=4, ensure_ascii=False)
 
 
 def help(command: str):

@@ -73,6 +73,18 @@ def romanise_json(filename: str):
     with open(filename, mode="w", encoding="utf8") as file:
         json.dump(decoded, file, indent=4, ensure_ascii=False)
 
+def add_id(filename: str):
+    decoded = None
+    with open(filename, mode="r") as file:
+        decoded = json.load(file)
+
+    for entry in decoded:
+        if entry["romanisation"]:
+            entry["id"] = entry["romanisation"]
+    
+    with open(filename, mode="w", encoding="utf8") as file:
+        json.dump(decoded, file, indent=4, ensure_ascii=False)
+
 
 def help(command: str):
     COMMANDS = [
@@ -80,6 +92,7 @@ def help(command: str):
        "convert_json_to_flat_list",
        "apply_evolved_forms",
        "romanise_json",
+       "add_id",
     ]
     print(f"Command '{command}' not recognised")
     print("The following commands are available:")
@@ -105,5 +118,8 @@ if __name__ == "__main__":
     case "romanise_json":
         filename = str(sys.argv[2])
         romanise_json(filename)
+    case "add_id":
+        filename = str(sys.argv[2])
+        add_id(filename)
     case _:
         help(command)

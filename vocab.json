@@ -9,7 +9,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Animal/Animate",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "maraku"
     },
     {
         "protoForm": "əsʷsʷəw",
@@ -21,7 +22,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Plant/Biotic Feature",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "ususu"
     },
     {
         "protoForm": "wətʲəj",
@@ -33,7 +35,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Inanimate",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "witi"
     },
     {
         "protoForm": "kʷətʲjanʲ",
@@ -45,7 +48,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Location",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "kätáni"
     },
     {
         "protoForm": "əkʲsʷə",
@@ -57,7 +61,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Culturally-Interesting",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "ikisï"
     },
     {
         "protoForm": "lʲəmʲə",
@@ -69,7 +74,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Transitive",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "limi"
     },
     {
         "protoForm": "aptʲə",
@@ -81,7 +87,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Intransitive",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "apati"
     },
     {
         "protoForm": "pətʷpə",
@@ -93,7 +100,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Culturally-Interesting",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "putupu"
     },
     {
         "protoForm": "kʷakʷ-kʷakʷ",
@@ -105,7 +113,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Sound/Sensory",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "käku-waku"
     },
     {
         "protoForm": "tʲanʷ-tʲanʷ",
@@ -118,7 +127,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Feeling/Emotion",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "tánu-janu"
     },
     {
         "protoForm": "ənʷakʷ",
@@ -131,7 +141,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Event",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "anäku"
     },
     {
         "protoForm": "mʲakʲə-mʲakʲə",
@@ -144,7 +155,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Manner",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "máki-jaki"
     },
     {
         "protoForm": "kʷətʲa",
@@ -157,7 +169,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "kätá"
     },
     {
         "protoForm": "alʲəmʲ",
@@ -170,7 +183,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "alimi"
     },
     {
         "protoForm": "mətʷa",
@@ -182,7 +196,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "matä"
     },
     {
         "protoForm": "amʲtʲa",
@@ -194,7 +209,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "amitá"
     },
     {
         "protoForm": "atʲəkʷ",
@@ -206,7 +222,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "atiku"
     },
     {
         "protoForm": "tʲəsʷa",
@@ -218,7 +235,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "tisä"
     },
     {
         "protoForm": "kʲəwkʷa",
@@ -230,7 +248,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "kikä"
     },
     {
         "protoForm": "tʲampʲa",
@@ -242,7 +261,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "támapá"
     },
     {
         "protoForm": "əpʲ 'oop",
@@ -256,7 +276,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "ipi-'aooapa"
     },
     {
         "protoForm": "lʲənʲma-lʲənʲma",
@@ -270,7 +291,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "linima-inima"
     },
     {
         "protoForm": "walʷwa",
@@ -283,7 +305,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "wara"
     },
     {
         "protoForm": "awənʷ",
@@ -295,7 +318,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "awanu"
     },
     {
         "protoForm": "kʷatʲəj-kʷatʲəj",
@@ -308,7 +332,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "käti-wati"
     },
     {
         "protoForm": "jəjətʷ",
@@ -320,7 +345,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "itu"
     },
     {
         "protoForm": "tʲatʷakʲ",
@@ -332,7 +358,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "tátäki"
     },
     {
         "protoForm": "sʲamasʲ",
@@ -344,7 +371,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "shamashi"
     },
     {
         "protoForm": "awamʲ",
@@ -356,7 +384,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Animal/Animate",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "awami"
     },
     {
         "protoForm": "kʷəmʲwakʲ",
@@ -368,7 +397,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Plant/Biotic Feature",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "kämäki"
     },
     {
         "protoForm": "malʲtʷə",
@@ -381,7 +411,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Inanimate",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "malitï"
     },
     {
         "protoForm": "lʷətʲtʲə",
@@ -393,7 +424,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Location",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "rititi"
     },
     {
         "protoForm": "sʲajpətʷ",
@@ -405,7 +437,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Culturally-Interesting",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "shapitu"
     },
     {
         "protoForm": "pʲəpʲəkʷ",
@@ -417,7 +450,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Transitive",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "pipiku"
     },
     {
         "protoForm": "sʷakʷ",
@@ -429,7 +463,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Intransitive",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "säku"
     },
     {
         "protoForm": "kʲəsʲ",
@@ -441,7 +476,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Culturally-Interesting",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "kishi"
     },
     {
         "protoForm": "tʷəkʷ",
@@ -453,7 +489,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Sound/Sensory",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "tuku"
     },
     {
         "protoForm": "lʲə-lʲə",
@@ -465,7 +502,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Feeling/Emotion",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "li-i"
     },
     {
         "protoForm": "kʲəj-kʷəw",
@@ -477,7 +515,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Event",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "ki-wu"
     },
     {
         "protoForm": "pakʷ-pakʷ",
@@ -489,7 +528,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Manner",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "paku-paku"
     },
     {
         "protoForm": "kʲanʷə",
@@ -501,7 +541,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "kánä"
     },
     {
         "protoForm": "pətʷakʷ",
@@ -513,7 +554,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "patäku"
     },
     {
         "protoForm": "mʲəlʲkʷə",
@@ -525,7 +567,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "milikï"
     },
     {
         "protoForm": "pʲəpʲpʲətʲ",
@@ -537,7 +580,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Animal/Animate",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "pipipiti"
     },
     {
         "protoForm": "patʷatʷ",
@@ -549,7 +593,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Plant/Biotic Feature",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "patätu"
     },
     {
         "protoForm": "pʲəma",
@@ -561,7 +606,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Inanimate",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "pima"
     },
     {
         "protoForm": "kʷam",
@@ -573,7 +619,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Location",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "käma"
     },
     {
         "protoForm": "sʷanʷə",
@@ -585,7 +632,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Culturally-Interesting",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "sänä"
     },
     {
         "protoForm": "pawanʲ",
@@ -598,7 +646,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Transitive",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "pawani"
     },
     {
         "protoForm": "mʲənʷə",
@@ -610,7 +659,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Intransitive",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "minï"
     },
     {
         "protoForm": "sʲəkʲ-sʲəkʲ",
@@ -624,7 +674,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Sound/Sensory",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "shiki-iki"
     },
     {
         "protoForm": "sʲəkʲə-sʲəkʲə",
@@ -637,7 +688,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Feeling/Emotion",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "shiki-iki"
     },
     {
         "protoForm": "kʷatʷkʷə",
@@ -651,7 +703,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Event",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "kätuku"
     },
     {
         "protoForm": "sʷasʲə-sʷasʲə",
@@ -666,7 +719,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Manner",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "säshi-washi"
     },
     {
         "protoForm": "lʷalʷatʷ",
@@ -678,7 +732,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "raratu"
     },
     {
         "protoForm": "sʲənʷa-sʷənʲa",
@@ -690,7 +745,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "shinä-waná"
     },
     {
         "protoForm": "kʲaw",
@@ -702,7 +758,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "ká"
     },
     {
         "protoForm": "lʷəmʲ",
@@ -714,7 +771,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "rimi"
     },
     {
         "protoForm": "lʷəkʷa",
@@ -727,7 +785,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "rakä"
     },
     {
         "protoForm": "atʷə",
@@ -740,7 +799,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "atä"
     },
     {
         "protoForm": "ətʷalʲ",
@@ -753,7 +813,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "atäli"
     },
     {
         "protoForm": "əsʷəkʲ",
@@ -765,7 +826,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "asïki"
     },
     {
         "protoForm": "patʷ",
@@ -778,7 +840,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "patu"
     },
     {
         "protoForm": "əpwə",
@@ -790,7 +853,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "apä"
     },
     {
         "protoForm": "atʷjə",
@@ -802,7 +866,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "atä"
     },
     {
         "protoForm": "nʲatʲwa",
@@ -814,7 +879,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "nátä"
     },
     {
         "protoForm": "akʷwamʲ",
@@ -826,7 +892,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "akämi"
     },
     {
         "protoForm": "atʲlʲətʲ",
@@ -838,7 +905,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "atiliti"
     },
     {
         "protoForm": "əkʷlʲatʷ",
@@ -850,7 +918,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "ukuratu"
     },
     {
         "protoForm": "wapʲlʷəp",
@@ -862,7 +931,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "wapiripi"
     },
     {
         "protoForm": "akʷmʲam",
@@ -874,7 +944,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "akumáma"
     },
     {
         "protoForm": "əpʲmʲatʷ",
@@ -886,7 +957,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "ipimátu"
     },
     {
         "protoForm": "kʷətʷmə",
@@ -898,7 +970,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "kutumu"
     },
     {
         "protoForm": "lʲapənʷ",
@@ -910,7 +983,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "rapanu"
     },
     {
         "protoForm": "akʷə",
@@ -922,7 +996,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "akä"
     },
     {
         "protoForm": "sʲəwlʲalʷ",
@@ -936,7 +1011,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "shiralu"
     },
     {
         "protoForm": "nʲəlʷsʷaw",
@@ -949,7 +1025,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "nilusä"
     },
     {
         "protoForm": "alʲsʲamʲ",
@@ -961,7 +1038,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "alishami"
     },
     {
         "protoForm": "mʲalʲsʷa",
@@ -973,7 +1051,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "málisä"
     },
     {
         "protoForm": "alʲlʲə",
@@ -985,7 +1064,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "alili"
     },
     {
         "protoForm": "kʷanʲəj",
@@ -997,7 +1077,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "käni"
     },
     {
         "protoForm": "əlʷlʷam",
@@ -1009,7 +1090,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "ulurama"
     },
     {
         "protoForm": "sʷaw",
@@ -1021,7 +1103,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "sä"
     },
     {
         "protoForm": "tʷəkʲəlʲ",
@@ -1033,7 +1116,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Animal/Animate",
-        "createdBy": "Tethys"
+        "createdBy": "Tethys",
+        "id": "tïkili"
     },
     {
         "protoForm": "kʷanʲ",
@@ -1045,7 +1129,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Plant/Biotic Feature",
-        "createdBy": "Tethys"
+        "createdBy": "Tethys",
+        "id": "käni"
     },
     {
         "protoForm": "əkʷəmʲ",
@@ -1057,7 +1142,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Inanimate",
-        "createdBy": "Tethys"
+        "createdBy": "Tethys",
+        "id": "akïmi"
     },
     {
         "protoForm": "kʲəsʷəlʲ",
@@ -1069,7 +1155,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Location",
-        "createdBy": "Tethys"
+        "createdBy": "Tethys",
+        "id": "kisïli"
     },
     {
         "protoForm": "tʲətʲ",
@@ -1081,7 +1168,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Culturally-Interesting",
-        "createdBy": "Tethys"
+        "createdBy": "Tethys",
+        "id": "titi"
     },
     {
         "protoForm": "kʷəlʷa",
@@ -1093,7 +1181,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Transitive",
-        "createdBy": "Tethys"
+        "createdBy": "Tethys",
+        "id": "kära"
     },
     {
         "protoForm": "sʷəmə",
@@ -1105,7 +1194,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Intransitive",
-        "createdBy": "Tethys"
+        "createdBy": "Tethys",
+        "id": "säma"
     },
     {
         "protoForm": "pakʲa",
@@ -1117,7 +1207,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Animal/Animate",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "paká"
     },
     {
         "protoForm": "jatʷtʲəkʲ",
@@ -1129,7 +1220,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Plant/Biotic Feature",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "jatutiki"
     },
     {
         "protoForm": "lʲəwətʷ",
@@ -1141,7 +1233,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Inanimate",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "liwitu"
     },
     {
         "protoForm": "akʷ",
@@ -1154,7 +1247,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Location",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "aku"
     },
     {
         "protoForm": "kʷatʲə",
@@ -1166,7 +1260,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Culturally-Interesting",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "käti"
     },
     {
         "protoForm": "tʲəlʷa",
@@ -1179,7 +1274,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Transitive",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "tira"
     },
     {
         "protoForm": "asʲpʲa",
@@ -1191,7 +1287,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Intransitive",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "ashipá"
     },
     {
         "protoForm": "pəmʲakʷ",
@@ -1203,7 +1300,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Culturally-Interesting",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "pamáku"
     },
     {
         "protoForm": "kʲəma-kʷəmʲa",
@@ -1221,7 +1319,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Sound/Sensory",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "kima-wamá"
     },
     {
         "protoForm": "məkʷtʷə-məkʷtʷə",
@@ -1234,7 +1333,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Feeling/Emotion",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "mukutu-mukutu"
     },
     {
         "protoForm": "alʲtʲa-alʲtʲa",
@@ -1250,7 +1350,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Event",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "alitá-alitá"
     },
     {
         "protoForm": "patʷa-patʷa",
@@ -1263,7 +1364,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Manner",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "patä-patä"
     },
     {
         "protoForm": "kʷatʲkʲə-kʲatʷkʷə",
@@ -1279,7 +1381,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "kätiki-jatuku"
     },
     {
         "protoForm": "lʷatʷ",
@@ -1293,7 +1396,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "ratu"
     },
     {
         "protoForm": "ətʲəp",
@@ -1305,7 +1409,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "itipi"
     },
     {
         "protoForm": "jəmkʲa",
@@ -1319,7 +1424,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "imiká"
     },
     {
         "protoForm": "sʷamʲmʲatʲ",
@@ -1331,7 +1437,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "sämimáti"
     },
     {
         "protoForm": "kʲəmʲ",
@@ -1343,7 +1450,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "kimi"
     },
     {
         "protoForm": "tʲəpə",
@@ -1355,7 +1463,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "tipi"
     },
     {
         "protoForm": "əsʷətʷ",
@@ -1367,7 +1476,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "asutu"
     },
     {
         "protoForm": "tʷətʲjə",
@@ -1379,7 +1489,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "tïti"
     },
     {
         "protoForm": "tʲəkʷkʲa",
@@ -1393,7 +1504,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "tikuká"
     },
     {
         "protoForm": "lʲətʲtʲə",
@@ -1405,7 +1517,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "lititi"
     },
     {
         "protoForm": "atʲa",
@@ -1418,7 +1531,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "atá"
     },
     {
         "protoForm": "tʷəpkʲa",
@@ -1432,7 +1546,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "täpaká"
     },
     {
         "protoForm": "kʲətʷtʲə",
@@ -1444,7 +1559,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Animal/Animate",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "kituti"
     },
     {
         "protoForm": "kʷanʲəm",
@@ -1456,7 +1572,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Plant/Biotic Feature",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "känimi"
     },
     {
         "protoForm": "ajmə",
@@ -1468,7 +1585,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Inanimate",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "ami"
     },
     {
         "protoForm": "əmʲkʲə",
@@ -1480,7 +1598,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Location",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "imiki"
     },
     {
         "protoForm": "jəkʲə",
@@ -1492,7 +1611,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Culturally-Interesting",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "iki"
     },
     {
         "protoForm": "awsʷasʲ",
@@ -1504,7 +1624,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Transitive",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "asäshi"
     },
     {
         "protoForm": "mʲənʲə",
@@ -1516,7 +1637,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Intransitive",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "mini"
     },
     {
         "protoForm": "jəkʲəkʷ",
@@ -1528,7 +1650,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Culturally-Interesting",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "ikiku"
     },
     {
         "protoForm": "sʲəwə-sʲəwə",
@@ -1540,7 +1663,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Sound/Sensory",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "shiwi-iwi"
     },
     {
         "protoForm": "tʲəm-tʲəm",
@@ -1552,7 +1676,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Feeling/Emotion",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "timi-imi"
     },
     {
         "protoForm": "kʲəj-kʲəj",
@@ -1564,7 +1689,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Event",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "ki-ji"
     },
     {
         "protoForm": "jəkʷa-jəkʷa",
@@ -1577,7 +1703,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Manner",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "ikä-ikä"
     },
     {
         "protoForm": "sʲəmja",
@@ -1589,7 +1716,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "shimá"
     },
     {
         "protoForm": "kʷəpʲənʲ",
@@ -1601,7 +1729,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Animal/Animate",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "kïpini"
     },
     {
         "protoForm": "lʷakʷa",
@@ -1613,7 +1742,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Plant/Biotic Feature",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "rakä"
     },
     {
         "protoForm": "tʲəmtʲəw",
@@ -1625,7 +1755,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Inanimate",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "timitú"
     },
     {
         "protoForm": "mʲasʷakʷ",
@@ -1638,7 +1769,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Location",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "másäku"
     },
     {
         "protoForm": "sʲalʲmaj",
@@ -1650,7 +1782,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Culturally-Interesting",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "shalima"
     },
     {
         "protoForm": "wawanʲ",
@@ -1663,7 +1796,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Transitive",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "wawani"
     },
     {
         "protoForm": "sʷatʲə",
@@ -1676,7 +1810,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Intransitive",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "säti"
     },
     {
         "protoForm": "pənʲətʷ",
@@ -1688,7 +1823,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Culturally-Interesting",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "pinitu"
     },
     {
         "protoForm": "pəlʷpəm",
@@ -1700,7 +1836,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Sound/Sensory",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "pulupumu"
     },
     {
         "protoForm": "masʷ-masʷ",
@@ -1713,7 +1850,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Feeling/Emotion",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "masu-masu"
     },
     {
         "protoForm": "jasʲ-jasʲ",
@@ -1726,7 +1864,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Event",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "jashi-jashi"
     },
     {
         "protoForm": "pʲakʷ-pʲakʷ",
@@ -1739,7 +1878,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Manner",
-        "createdBy": "Tinguish"
+        "createdBy": "Tinguish",
+        "id": "páku-jaku"
     },
     {
         "protoForm": "palʷəj",
@@ -1753,7 +1893,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Animal/Animate",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "pari"
     },
     {
         "protoForm": "mamʲətʷ",
@@ -1766,7 +1907,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Desert/Mountain Plant/Biotic Feature",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "mamitu"
     },
     {
         "protoForm": "nʷakʷasʷ",
@@ -1778,7 +1920,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Inanimate",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "näkäsu"
     },
     {
         "protoForm": "lʲətʷnʷətʷ",
@@ -1791,7 +1934,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "Location",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "litunutu"
     },
     {
         "protoForm": "tʷənʷ",
@@ -1804,7 +1948,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Transitive",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "tunu"
     },
     {
         "protoForm": "nʲasʷə",
@@ -1818,7 +1963,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Intransitive",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "násä"
     },
     {
         "protoForm": "ətʲəkʷ",
@@ -1830,7 +1976,8 @@
         ],
         "partOfSpeech": "verb",
         "notes": "Culturally-Interesting",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "itiku"
     },
     {
         "protoForm": "tʲakʷ-tʲakʷ",
@@ -1842,7 +1989,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Sound/Sensory",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "táku-jaku"
     },
     {
         "protoForm": "sʲəsʲ-sʲəsʲ",
@@ -1855,7 +2003,8 @@
         ],
         "partOfSpeech": "ideophone",
         "notes": "Manner",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "shishi-ishi"
     },
     {
         "protoForm": "kʷətʲə",
@@ -1872,7 +2021,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "kïti"
     },
     {
         "protoForm": "mʲasʲlʲa",
@@ -1888,7 +2038,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "máshira"
     },
     {
         "protoForm": "mʲawtʲatʷ",
@@ -1902,7 +2053,8 @@
         ],
         "partOfSpeech": "noun",
         "notes": "",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "mátätu"
     },
     {
         "protoForm": "ammətʲ",
@@ -1914,7 +2066,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "amamiti"
     },
     {
         "protoForm": "nʲaj",
@@ -1926,7 +2079,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "ná"
     },
     {
         "protoForm": "kʷəlʲa",
@@ -1939,7 +2093,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "kära"
     },
     {
         "protoForm": "tʲakʲa",
@@ -1951,7 +2106,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "táká"
     },
     {
         "protoForm": "wakʲakʲ",
@@ -1963,7 +2119,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "wakáki"
     },
     {
         "protoForm": "sʲamam",
@@ -1975,7 +2132,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "shamama"
     },
     {
         "protoForm": "amlʷa",
@@ -1987,7 +2145,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "amara"
     },
     {
         "protoForm": "kʷasʲsʲa",
@@ -1999,7 +2158,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "käshisha"
     },
     {
         "protoForm": "lʲəkʷ",
@@ -2011,7 +2171,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "liku"
     },
     {
         "protoForm": "wəkʷə",
@@ -2023,7 +2184,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "wakä"
     },
     {
         "protoForm": "nʲakʲa",
@@ -2035,7 +2197,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "náká"
     },
     {
         "protoForm": "tʷawaj",
@@ -2048,7 +2211,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "täwa"
     },
     {
         "protoForm": "jalʲtʲə",
@@ -2061,7 +2225,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "jaliti"
     },
     {
         "protoForm": "məməsʲ",
@@ -2073,7 +2238,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "mamishi"
     },
     {
         "protoForm": "əlʲətʷ",
@@ -2085,7 +2251,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "ilitu"
     },
     {
         "protoForm": "kʷajə",
@@ -2097,7 +2264,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "kä"
     },
     {
         "protoForm": "sʲəsʷsʷə",
@@ -2109,7 +2277,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "shisusu"
     },
     {
         "protoForm": "lʲətʲakʷ",
@@ -2121,7 +2290,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "litáku"
     },
     {
         "protoForm": "tʲəkʷətʲ",
@@ -2133,7 +2303,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "tikïti"
     },
     {
         "protoForm": "wammʲətʷ",
@@ -2145,7 +2316,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "wamamitu"
     },
     {
         "protoForm": "kʷəkʲ",
@@ -2157,7 +2329,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "kïki"
     },
     {
         "protoForm": "anʲkʲətʲ",
@@ -2169,7 +2342,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "anikiti"
     },
     {
         "protoForm": "mamakʲ",
@@ -2181,7 +2355,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "mamaki"
     },
     {
         "protoForm": "sʲakʷpa",
@@ -2193,7 +2368,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "shakupa"
     },
     {
         "protoForm": "kʲəsʲsʲəj",
@@ -2205,7 +2381,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Miles"
+        "createdBy": "Miles",
+        "id": "kishishi"
     },
     {
         "protoForm": "anʷnʷam",
@@ -2217,7 +2394,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "anunäma"
     },
     {
         "protoForm": "pəjjəkʷ",
@@ -2229,7 +2407,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "paku"
     },
     {
         "protoForm": "sʷanʷənʲ",
@@ -2241,7 +2420,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "sänäni"
     },
     {
         "protoForm": "malʷa",
@@ -2253,7 +2433,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "mara"
     },
     {
         "protoForm": "mamʲaw",
@@ -2265,7 +2446,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "mamá"
     },
     {
         "protoForm": "mətʷə",
@@ -2277,7 +2459,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "matä"
     },
     {
         "protoForm": "tʲəmsʲəkʲ",
@@ -2289,7 +2472,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "timishiki"
     },
     {
         "protoForm": "tʷəwwənʷ",
@@ -2301,7 +2485,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "The Autonomous Spirit of Google so-called Docs"
+        "createdBy": "The Autonomous Spirit of Google so-called Docs",
+        "id": "täwunu"
     },
     {
         "protoForm": "kʷəsʲsʲa",
@@ -2313,7 +2498,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "kïshisha"
     },
     {
         "protoForm": "pəlʲwa",
@@ -2325,7 +2511,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "para"
     },
     {
         "protoForm": "kʷətʷnʲə",
@@ -2337,7 +2524,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "kutuni"
     },
     {
         "protoForm": "mawə",
@@ -2350,7 +2538,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "mawa"
     },
     {
         "protoForm": "əkʷmə",
@@ -2362,7 +2551,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "ukumu"
     },
     {
         "protoForm": "jakʲkʲa",
@@ -2375,7 +2565,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "jakiká"
     },
     {
         "protoForm": "pʲakʷwə",
@@ -2387,7 +2578,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "pákä"
     },
     {
         "protoForm": "əwjanʲ",
@@ -2399,7 +2591,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "awani"
     },
     {
         "protoForm": "əplʲəkʲ",
@@ -2411,7 +2604,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "apiliki"
     },
     {
         "protoForm": "wajjam",
@@ -2423,7 +2617,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "wajama"
     },
     {
         "protoForm": "pʲəkʷapʲ",
@@ -2436,7 +2631,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "pikäpi"
     },
     {
         "protoForm": "mʲənʷətʲ",
@@ -2448,7 +2644,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Keras"
+        "createdBy": "Keras",
+        "id": "minïti"
     },
     {
         "protoForm": "lʷawamʲ",
@@ -2460,7 +2657,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "rawami"
     },
     {
         "protoForm": "əwkʲam",
@@ -2472,7 +2670,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "akäma"
     },
     {
         "protoForm": "tʷətʷsʷətʷ",
@@ -2484,7 +2683,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "keras"
+        "createdBy": "keras",
+        "id": "tutusutu"
     },
     {
         "protoForm": "tʲamʲa",
@@ -2496,7 +2696,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jonathan"
+        "createdBy": "Jonathan",
+        "id": "támá"
     },
     {
         "protoForm": "kʷawjanʷ",
@@ -2508,7 +2709,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Magpie"
+        "createdBy": "Magpie",
+        "id": "käwanu"
     },
     {
         "protoForm": "",
@@ -2532,7 +2734,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ashi"
     },
     {
         "protoForm": "-nʷə",
@@ -2544,7 +2747,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "nä"
     },
     {
         "protoForm": "-kʲəj",
@@ -2556,7 +2760,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ki"
     },
     {
         "protoForm": "-lʲatʲə",
@@ -2568,7 +2773,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "rati"
     },
     {
         "protoForm": "-kʷawa",
@@ -2580,7 +2786,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "käwa"
     },
     {
         "protoForm": "-tʲəpʲa",
@@ -2592,7 +2799,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "tipá"
     },
     {
         "protoForm": "-tʷajatʲ",
@@ -2604,7 +2812,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "täjati"
     },
     {
         "protoForm": "aw",
@@ -2616,7 +2825,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "a"
     },
     {
         "protoForm": "wəkʷ",
@@ -2628,7 +2838,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "wuku"
     },
     {
         "protoForm": "kʲasʲ",
@@ -2640,7 +2851,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "káshi"
     },
     {
         "protoForm": "mʲakʲ",
@@ -2652,7 +2864,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "máki"
     },
     {
         "protoForm": "tʲəkʷə",
@@ -2664,7 +2877,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "tikï"
     },
     {
         "protoForm": "kʲəpa",
@@ -2676,7 +2890,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "kipa"
     },
     {
         "protoForm": "sʷamsʲa",
@@ -2688,7 +2903,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "sämasha"
     },
     {
         "protoForm": "pʲəkʲə",
@@ -2700,7 +2916,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "piki"
     },
     {
         "protoForm": "mətʲmə",
@@ -2712,7 +2929,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "mitimi"
     },
     {
         "protoForm": "jatʲəkʲ",
@@ -2724,7 +2942,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "jatiki"
     },
     {
         "protoForm": "əlʲkʲa",
@@ -2736,7 +2955,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "iliká"
     },
     {
         "protoForm": "paja",
@@ -2748,7 +2968,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "paja"
     },
     {
         "protoForm": "jəmʲə",
@@ -2760,7 +2981,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "imi"
     },
     {
         "protoForm": "lʷatʲsʲə",
@@ -2772,7 +2994,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ratishi"
     },
     {
         "protoForm": "kʲəsʷjə",
@@ -2784,7 +3007,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "kisï"
     },
     {
         "protoForm": "məsʲ",
@@ -2796,7 +3020,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "mishi"
     },
     {
         "protoForm": "ətʷə",
@@ -2808,7 +3033,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "atä"
     },
     {
         "protoForm": "mʲətʷəkʷ",
@@ -2820,7 +3046,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "mitïku"
     },
     {
         "protoForm": "tʷəkʲə",
@@ -2832,7 +3059,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "tïki"
     },
     {
         "protoForm": "lʲənʲəm",
@@ -2844,7 +3072,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "linimi"
     },
     {
         "protoForm": "əsʷa",
@@ -2856,7 +3085,8 @@
         ],
         "partOfSpeech": "pronoun",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "asä"
     },
     {
         "protoForm": "ətʲ-",
@@ -2868,7 +3098,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "iti"
     },
     {
         "protoForm": "ja-",
@@ -2880,7 +3111,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ja"
     },
     {
         "protoForm": "awə-",
@@ -2892,7 +3124,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "awa"
     },
     {
         "protoForm": "-kʲə-",
@@ -2904,7 +3137,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ki"
     },
     {
         "protoForm": "-nʷətʲ-",
@@ -2916,7 +3150,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "nïti"
     },
     {
         "protoForm": "-sʲəmʲə-",
@@ -2928,7 +3163,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "shimi"
     },
     {
         "protoForm": "-atʲtʲanʷ-",
@@ -2940,7 +3176,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "atitánu"
     },
     {
         "protoForm": "-mʲa-",
@@ -2952,7 +3189,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-10 interrogative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "má"
     },
     {
         "protoForm": "-lʷakʷ-",
@@ -2964,7 +3202,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-9 reflexive",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "raku"
     },
     {
         "protoForm": "-lʲanʲ-",
@@ -2976,7 +3215,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-8 evidential",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "rani"
     },
     {
         "protoForm": "-sʷama-",
@@ -2988,7 +3228,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-8 evidential",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "säma"
     },
     {
         "protoForm": "-pəpʲa-",
@@ -3000,7 +3241,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-7 imperative, prohibitive",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "papá"
     },
     {
         "protoForm": "-kʲawatʲ-",
@@ -3012,7 +3254,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-7 imperative, prohibitive",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "káwati"
     },
     {
         "protoForm": "-kʲətʷ-",
@@ -3027,7 +3270,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-6 directional",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "kitu"
     },
     {
         "protoForm": "-sʲasʷ-",
@@ -3043,7 +3287,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-6 directional",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "shasu"
     },
     {
         "protoForm": "-nʲa-",
@@ -3057,7 +3302,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-6 directional",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ná"
     },
     {
         "protoForm": "-awakʲ-",
@@ -3069,7 +3315,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-5 optative, desirative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "awaki"
     },
     {
         "protoForm": "-kʷama-",
@@ -3081,7 +3328,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-5 optative, desirative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "käma"
     },
     {
         "protoForm": "-tʷakʷ-",
@@ -3093,7 +3341,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-4 negative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "täku"
     },
     {
         "protoForm": "-waj-",
@@ -3105,7 +3354,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-4 negative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "wa"
     },
     {
         "protoForm": "-tʷa-",
@@ -3117,7 +3367,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-2 causative, antipassive, applicative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "tä"
     },
     {
         "protoForm": "-lʲaw-",
@@ -3129,7 +3380,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-2 causative, antipassive, applicative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ra"
     },
     {
         "protoForm": "-kʲəmʲ-",
@@ -3141,7 +3393,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-2 causative, antipassive, applicative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "kimi"
     },
     {
         "protoForm": "-sʷənʲ-",
@@ -3153,7 +3406,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-2 causative, antipassive, applicative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "sïni"
     },
     {
         "protoForm": "-məkʷaj-",
@@ -3165,7 +3419,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "-1 abilitative",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "makä"
     },
     {
         "protoForm": "-nʲənʷ-",
@@ -3177,7 +3432,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "+2 tense",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ninu"
     },
     {
         "protoForm": "-tʷamʲ-",
@@ -3189,7 +3445,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "+2 tense",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "tämi"
     },
     {
         "protoForm": "-lʷaj-",
@@ -3201,7 +3458,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "+2 tense",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "ra"
     },
     {
         "protoForm": "-lʲə",
@@ -3213,7 +3471,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "+3 aspect",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "li"
     },
     {
         "protoForm": "-tʲalʲ",
@@ -3225,7 +3484,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "+3 aspect",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "táli"
     },
     {
         "protoForm": "-kʷaw",
@@ -3237,7 +3497,8 @@
         ],
         "partOfSpeech": "affix",
         "notes": "+3 aspect",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": "kä"
     },
     {
         "protoForm": "lʲajnʲa",
@@ -3249,7 +3510,8 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Jake"
+        "createdBy": "Jake",
+        "id": "raná"
     },
     {
         "protoForm": "jawnʲa",
@@ -3261,6 +3523,7 @@
         ],
         "partOfSpeech": "modifier",
         "notes": "",
-        "createdBy": "Caleb"
+        "createdBy": "Caleb",
+        "id": "janä"
     }
 ]

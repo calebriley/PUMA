@@ -18,7 +18,7 @@ def convert_csv_to_json(input_filename: str, output_filename: str):
               "notes": row[3],
               "createdBy": row[4],
             })
-        with open(output_filename, mode="w", encoding='ut8f') as output_file:
+        with open(output_filename, mode="w", encoding='utf8') as output_file:
             json.dump(vocab, output_file, indent=4, ensure_ascii=False)
 
 def convert_json_to_flat_list(input_filename: str, output_filename: str):

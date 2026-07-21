@@ -39,6 +39,10 @@ def apply_evolved_forms(input_filename: str, output_filename: str):
             proto, evolved = line.split("=>")
             proto = proto.strip()
             evolved = evolved.strip()
+            if proto.startswith("-"):
+                evolved = "-" + evolved
+            if proto.endswith("-"):
+                evolved = evolved + "-"
             vocab[proto] = evolved
     decoded = None
     with open(output_filename, mode="r") as output_file:
@@ -82,7 +86,9 @@ def add_id(filename: str):
     for entry in decoded:
         if entry["romanisation"]:
             entry["id"] = entry["romanisation"] + "_" + str(offset)
-            offset += 1
+        else:
+            entry["id"] = offset
+        offset += 1
     
     with open(filename, mode="w", encoding="utf8") as file:
         json.dump(decoded, file, indent=4, ensure_ascii=False)

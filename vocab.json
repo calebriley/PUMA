@@ -2722,98 +2722,99 @@
         ],
         "partOfSpeech": "affix",
         "notes": "",
-        "createdBy": "LHAB"
+        "createdBy": "LHAB",
+        "id": 202
     },
     {
         "protoForm": "-asʲ",
-        "evolvedForm": "aʃi",
-        "modernForm": "aʃi",
-        "romanisation": "ashi",
+        "evolvedForm": "-aʃi",
+        "modernForm": "-aʃi",
+        "romanisation": "-ashi",
         "english": [
             "ergative"
         ],
         "partOfSpeech": "affix",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "ashi_202"
+        "id": "-ashi_203"
     },
     {
         "protoForm": "-nʷə",
-        "evolvedForm": "nʷa",
-        "modernForm": "nʷa",
-        "romanisation": "nä",
+        "evolvedForm": "-nʷa",
+        "modernForm": "-nʷa",
+        "romanisation": "-nä",
         "english": [
             "genitive"
         ],
         "partOfSpeech": "affix",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "nä_203"
+        "id": "-nä_204"
     },
     {
         "protoForm": "-kʲəj",
-        "evolvedForm": "ki",
-        "modernForm": "ki",
-        "romanisation": "ki",
+        "evolvedForm": "-ki",
+        "modernForm": "-ki",
+        "romanisation": "-ki",
         "english": [
             "dative"
         ],
         "partOfSpeech": "affix",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "ki_204"
+        "id": "-ki_205"
     },
     {
         "protoForm": "-lʲatʲə",
-        "evolvedForm": "rati",
-        "modernForm": "rati",
-        "romanisation": "rati",
+        "evolvedForm": "-rati",
+        "modernForm": "-rati",
+        "romanisation": "-rati",
         "english": [
             "instrumental"
         ],
         "partOfSpeech": "affix",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "rati_205"
+        "id": "-rati_206"
     },
     {
         "protoForm": "-kʷawa",
-        "evolvedForm": "kʷawa",
-        "modernForm": "kʷawa",
-        "romanisation": "käwa",
+        "evolvedForm": "-kʷawa",
+        "modernForm": "-kʷawa",
+        "romanisation": "-käwa",
         "english": [
             "locative"
         ],
         "partOfSpeech": "affix",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "käwa_206"
+        "id": "-käwa_207"
     },
     {
         "protoForm": "-tʲəpʲa",
-        "evolvedForm": "tipʲa",
-        "modernForm": "tipʲa",
-        "romanisation": "tipá",
+        "evolvedForm": "-tipʲa",
+        "modernForm": "-tipʲa",
+        "romanisation": "-tipá",
         "english": [
             "ablative"
         ],
         "partOfSpeech": "affix",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "tipá_207"
+        "id": "-tipá_208"
     },
     {
         "protoForm": "-tʷajatʲ",
-        "evolvedForm": "tʷajati",
-        "modernForm": "tʷajati",
-        "romanisation": "täjati",
+        "evolvedForm": "-tʷajati",
+        "modernForm": "-tʷajati",
+        "romanisation": "-täjati",
         "english": [
             "allative"
         ],
         "partOfSpeech": "affix",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "täjati_208"
+        "id": "-täjati_209"
     },
     {
         "protoForm": "aw",
@@ -2826,7 +2827,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "a_209"
+        "id": "a_210"
     },
     {
         "protoForm": "wəkʷ",
@@ -2839,7 +2840,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "wuku_210"
+        "id": "wuku_211"
     },
     {
         "protoForm": "kʲasʲ",
@@ -2852,7 +2853,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "káshi_211"
+        "id": "káshi_212"
     },
     {
         "protoForm": "mʲakʲ",
@@ -2865,7 +2866,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "máki_212"
+        "id": "máki_213"
     },
     {
         "protoForm": "tʲəkʷə",
@@ -2878,7 +2879,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "tikï_213"
+        "id": "tikï_214"
     },
     {
         "protoForm": "kʲəpa",
@@ -2891,7 +2892,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "kipa_214"
+        "id": "kipa_215"
     },
     {
         "protoForm": "sʷamsʲa",
@@ -2904,7 +2905,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "sämasha_215"
+        "id": "sämasha_216"
     },
     {
         "protoForm": "pʲəkʲə",
@@ -2917,7 +2918,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "piki_216"
+        "id": "piki_217"
     },
     {
         "protoForm": "mətʲmə",
@@ -2930,7 +2931,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "mitimi_217"
+        "id": "mitimi_218"
     },
     {
         "protoForm": "jatʲəkʲ",
@@ -2943,7 +2944,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "jatiki_218"
+        "id": "jatiki_219"
     },
     {
         "protoForm": "əlʲkʲa",
@@ -2956,7 +2957,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "iliká_219"
+        "id": "iliká_220"
     },
     {
         "protoForm": "paja",
@@ -2969,7 +2970,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "paja_220"
+        "id": "paja_221"
     },
     {
         "protoForm": "jəmʲə",
@@ -2982,7 +2983,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "imi_221"
+        "id": "imi_222"
     },
     {
         "protoForm": "lʷatʲsʲə",
@@ -2995,7 +2996,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "ratishi_222"
+        "id": "ratishi_223"
     },
     {
         "protoForm": "kʲəsʷjə",
@@ -3008,7 +3009,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "kisï_223"
+        "id": "kisï_224"
     },
     {
         "protoForm": "məsʲ",
@@ -3021,7 +3022,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "mishi_224"
+        "id": "mishi_225"
     },
     {
         "protoForm": "ətʷə",
@@ -3034,7 +3035,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "atä_225"
+        "id": "atä_226"
     },
     {
         "protoForm": "mʲətʷəkʷ",
@@ -3047,7 +3048,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "mitïku_226"
+        "id": "mitïku_227"
     },
     {
         "protoForm": "tʷəkʲə",
@@ -3060,7 +3061,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "tïki_227"
+        "id": "tïki_228"
     },
     {
         "protoForm": "lʲənʲəm",
@@ -3073,7 +3074,7 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "linimi_228"
+        "id": "linimi_229"
     },
     {
         "protoForm": "əsʷa",
@@ -3086,182 +3087,182 @@
         "partOfSpeech": "pronoun",
         "notes": "",
         "createdBy": "LHAB",
-        "id": "asä_229"
+        "id": "asä_230"
     },
     {
         "protoForm": "ətʲ-",
-        "evolvedForm": "iti",
-        "modernForm": "iti",
-        "romanisation": "iti",
+        "evolvedForm": "iti-",
+        "modernForm": "iti-",
+        "romanisation": "iti-",
         "english": [
             "relativizer 'that Xes’"
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
         "createdBy": "LHAB",
-        "id": "iti_230"
+        "id": "iti-_231"
     },
     {
         "protoForm": "ja-",
-        "evolvedForm": "ja",
-        "modernForm": "ja",
-        "romanisation": "ja",
+        "evolvedForm": "ja-",
+        "modernForm": "ja-",
+        "romanisation": "ja-",
         "english": [
             "agentive 'X-er, who Xes'"
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
         "createdBy": "LHAB",
-        "id": "ja_231"
+        "id": "ja-_232"
     },
     {
         "protoForm": "awə-",
-        "evolvedForm": "awa",
-        "modernForm": "awa",
-        "romanisation": "awa",
+        "evolvedForm": "awa-",
+        "modernForm": "awa-",
+        "romanisation": "awa-",
         "english": [
             "nominalisation 'x-ing'"
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
         "createdBy": "LHAB",
-        "id": "awa_232"
+        "id": "awa-_233"
     },
     {
         "protoForm": "-kʲə-",
-        "evolvedForm": "ki",
-        "modernForm": "ki",
-        "romanisation": "ki",
+        "evolvedForm": "-ki-",
+        "modernForm": "-ki-",
+        "romanisation": "-ki-",
         "english": [
             "sequential 'after-X'"
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
         "createdBy": "LHAB",
-        "id": "ki_233"
+        "id": "-ki-_234"
     },
     {
         "protoForm": "-nʷətʲ-",
-        "evolvedForm": "nʷiti",
-        "modernForm": "nʷiti",
-        "romanisation": "nïti",
+        "evolvedForm": "-nʷiti-",
+        "modernForm": "-nʷiti-",
+        "romanisation": "-nïti-",
         "english": [
             "while X, simultaneous"
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
         "createdBy": "LHAB",
-        "id": "nïti_234"
+        "id": "-nïti-_235"
     },
     {
         "protoForm": "-sʲəmʲə-",
-        "evolvedForm": "ʃimi",
-        "modernForm": "ʃimi",
-        "romanisation": "shimi",
+        "evolvedForm": "-ʃimi-",
+        "modernForm": "-ʃimi-",
+        "romanisation": "-shimi-",
         "english": [
             "inchoative"
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
         "createdBy": "LHAB",
-        "id": "shimi_235"
+        "id": "-shimi-_236"
     },
     {
         "protoForm": "-atʲtʲanʷ-",
-        "evolvedForm": "atitʲanu",
-        "modernForm": "atitʲanu",
-        "romanisation": "atitánu",
+        "evolvedForm": "-atitʲanu-",
+        "modernForm": "-atitʲanu-",
+        "romanisation": "-atitánu-",
         "english": [
             "consequential"
         ],
         "partOfSpeech": "affix",
         "notes": "-11 relativisation and deverbal morphology",
         "createdBy": "LHAB",
-        "id": "atitánu_236"
+        "id": "-atitánu-_237"
     },
     {
         "protoForm": "-mʲa-",
-        "evolvedForm": "mʲa",
-        "modernForm": "mʲa",
-        "romanisation": "má",
+        "evolvedForm": "-mʲa-",
+        "modernForm": "-mʲa-",
+        "romanisation": "-má-",
         "english": [
             "interrogative"
         ],
         "partOfSpeech": "affix",
         "notes": "-10 interrogative",
         "createdBy": "LHAB",
-        "id": "má_237"
+        "id": "-má-_238"
     },
     {
         "protoForm": "-lʷakʷ-",
-        "evolvedForm": "raku",
-        "modernForm": "raku",
-        "romanisation": "raku",
+        "evolvedForm": "-raku-",
+        "modernForm": "-raku-",
+        "romanisation": "-raku-",
         "english": [
             "reflexive"
         ],
         "partOfSpeech": "affix",
         "notes": "-9 reflexive",
         "createdBy": "LHAB",
-        "id": "raku_238"
+        "id": "-raku-_239"
     },
     {
         "protoForm": "-lʲanʲ-",
-        "evolvedForm": "rani",
-        "modernForm": "rani",
-        "romanisation": "rani",
+        "evolvedForm": "-rani-",
+        "modernForm": "-rani-",
+        "romanisation": "-rani-",
         "english": [
             "direct non-visual"
         ],
         "partOfSpeech": "affix",
         "notes": "-8 evidential",
         "createdBy": "LHAB",
-        "id": "rani_239"
+        "id": "-rani-_240"
     },
     {
         "protoForm": "-sʷama-",
-        "evolvedForm": "sʷama",
-        "modernForm": "sʷama",
-        "romanisation": "säma",
+        "evolvedForm": "-sʷama-",
+        "modernForm": "-sʷama-",
+        "romanisation": "-säma-",
         "english": [
             "heresay"
         ],
         "partOfSpeech": "affix",
         "notes": "-8 evidential",
         "createdBy": "LHAB",
-        "id": "säma_240"
+        "id": "-säma-_241"
     },
     {
         "protoForm": "-pəpʲa-",
-        "evolvedForm": "papʲa",
-        "modernForm": "papʲa",
-        "romanisation": "papá",
+        "evolvedForm": "-papʲa-",
+        "modernForm": "-papʲa-",
+        "romanisation": "-papá-",
         "english": [
             "imperative"
         ],
         "partOfSpeech": "affix",
         "notes": "-7 imperative, prohibitive",
         "createdBy": "LHAB",
-        "id": "papá_241"
+        "id": "-papá-_242"
     },
     {
         "protoForm": "-kʲawatʲ-",
-        "evolvedForm": "kʲawati",
-        "modernForm": "kʲawati",
-        "romanisation": "káwati",
+        "evolvedForm": "-kʲawati-",
+        "modernForm": "-kʲawati-",
+        "romanisation": "-káwati-",
         "english": [
             "prohibitive"
         ],
         "partOfSpeech": "affix",
         "notes": "-7 imperative, prohibitive",
         "createdBy": "LHAB",
-        "id": "káwati_242"
+        "id": "-káwati-_243"
     },
     {
         "protoForm": "-kʲətʷ-",
-        "evolvedForm": "kitu",
-        "modernForm": "kitu",
-        "romanisation": "kitu",
+        "evolvedForm": "-kitu-",
+        "modernForm": "-kitu-",
+        "romanisation": "-kitu-",
         "english": [
             "below",
             "under",
@@ -3271,13 +3272,13 @@
         "partOfSpeech": "affix",
         "notes": "-6 directional",
         "createdBy": "LHAB",
-        "id": "kitu_243"
+        "id": "-kitu-_244"
     },
     {
         "protoForm": "-sʲasʷ-",
-        "evolvedForm": "ʃasu",
-        "modernForm": "ʃasu",
-        "romanisation": "shasu",
+        "evolvedForm": "-ʃasu-",
+        "modernForm": "-ʃasu-",
+        "romanisation": "-shasu-",
         "english": [
             "above",
             "over",
@@ -3288,13 +3289,13 @@
         "partOfSpeech": "affix",
         "notes": "-6 directional",
         "createdBy": "LHAB",
-        "id": "shasu_244"
+        "id": "-shasu-_245"
     },
     {
         "protoForm": "-nʲa-",
-        "evolvedForm": "nʲa",
-        "modernForm": "nʲa",
-        "romanisation": "ná",
+        "evolvedForm": "-nʲa-",
+        "modernForm": "-nʲa-",
+        "romanisation": "-ná-",
         "english": [
             "through",
             "alongside",
@@ -3303,202 +3304,202 @@
         "partOfSpeech": "affix",
         "notes": "-6 directional",
         "createdBy": "LHAB",
-        "id": "ná_245"
+        "id": "-ná-_246"
     },
     {
         "protoForm": "-awakʲ-",
-        "evolvedForm": "awaki",
-        "modernForm": "awaki",
-        "romanisation": "awaki",
+        "evolvedForm": "-awaki-",
+        "modernForm": "-awaki-",
+        "romanisation": "-awaki-",
         "english": [
             "optative"
         ],
         "partOfSpeech": "affix",
         "notes": "-5 optative, desirative",
         "createdBy": "LHAB",
-        "id": "awaki_246"
+        "id": "-awaki-_247"
     },
     {
         "protoForm": "-kʷama-",
-        "evolvedForm": "kʷama",
-        "modernForm": "kʷama",
-        "romanisation": "käma",
+        "evolvedForm": "-kʷama-",
+        "modernForm": "-kʷama-",
+        "romanisation": "-käma-",
         "english": [
             "desirative"
         ],
         "partOfSpeech": "affix",
         "notes": "-5 optative, desirative",
         "createdBy": "LHAB",
-        "id": "käma_247"
+        "id": "-käma-_248"
     },
     {
         "protoForm": "-tʷakʷ-",
-        "evolvedForm": "tʷaku",
-        "modernForm": "tʷaku",
-        "romanisation": "täku",
+        "evolvedForm": "-tʷaku-",
+        "modernForm": "-tʷaku-",
+        "romanisation": "-täku-",
         "english": [
             "negator"
         ],
         "partOfSpeech": "affix",
         "notes": "-4 negative",
         "createdBy": "LHAB",
-        "id": "täku_248"
+        "id": "-täku-_249"
     },
     {
         "protoForm": "-waj-",
-        "evolvedForm": "wa",
-        "modernForm": "wa",
-        "romanisation": "wa",
+        "evolvedForm": "-wa-",
+        "modernForm": "-wa-",
+        "romanisation": "-wa-",
         "english": [
             "not yet"
         ],
         "partOfSpeech": "affix",
         "notes": "-4 negative",
         "createdBy": "LHAB",
-        "id": "wa_249"
+        "id": "-wa-_250"
     },
     {
         "protoForm": "-tʷa-",
-        "evolvedForm": "tʷa",
-        "modernForm": "tʷa",
-        "romanisation": "tä",
+        "evolvedForm": "-tʷa-",
+        "modernForm": "-tʷa-",
+        "romanisation": "-tä-",
         "english": [
             "causative"
         ],
         "partOfSpeech": "affix",
         "notes": "-2 causative, antipassive, applicative",
         "createdBy": "LHAB",
-        "id": "tä_250"
+        "id": "-tä-_251"
     },
     {
         "protoForm": "-lʲaw-",
-        "evolvedForm": "ra",
-        "modernForm": "ra",
-        "romanisation": "ra",
+        "evolvedForm": "-ra-",
+        "modernForm": "-ra-",
+        "romanisation": "-ra-",
         "english": [
             "antipassive"
         ],
         "partOfSpeech": "affix",
         "notes": "-2 causative, antipassive, applicative",
         "createdBy": "LHAB",
-        "id": "ra_251"
+        "id": "-ra-_252"
     },
     {
         "protoForm": "-kʲəmʲ-",
-        "evolvedForm": "kimi",
-        "modernForm": "kimi",
-        "romanisation": "kimi",
+        "evolvedForm": "-kimi-",
+        "modernForm": "-kimi-",
+        "romanisation": "-kimi-",
         "english": [
             "comitative applicative"
         ],
         "partOfSpeech": "affix",
         "notes": "-2 causative, antipassive, applicative",
         "createdBy": "LHAB",
-        "id": "kimi_252"
+        "id": "-kimi-_253"
     },
     {
         "protoForm": "-sʷənʲ-",
-        "evolvedForm": "sʷini",
-        "modernForm": "sʷini",
-        "romanisation": "sïni",
+        "evolvedForm": "-sʷini-",
+        "modernForm": "-sʷini-",
+        "romanisation": "-sïni-",
         "english": [
             "benefactive applicative"
         ],
         "partOfSpeech": "affix",
         "notes": "-2 causative, antipassive, applicative",
         "createdBy": "LHAB",
-        "id": "sïni_253"
+        "id": "-sïni-_254"
     },
     {
         "protoForm": "-məkʷaj-",
-        "evolvedForm": "makʷa",
-        "modernForm": "makʷa",
-        "romanisation": "makä",
+        "evolvedForm": "-makʷa-",
+        "modernForm": "-makʷa-",
+        "romanisation": "-makä-",
         "english": [
             "abilitative"
         ],
         "partOfSpeech": "affix",
         "notes": "-1 abilitative",
         "createdBy": "LHAB",
-        "id": "makä_254"
+        "id": "-makä-_255"
     },
     {
         "protoForm": "-nʲənʷ-",
-        "evolvedForm": "ninu",
-        "modernForm": "ninu",
-        "romanisation": "ninu",
+        "evolvedForm": "-ninu-",
+        "modernForm": "-ninu-",
+        "romanisation": "-ninu-",
         "english": [
             "recent past (same day)"
         ],
         "partOfSpeech": "affix",
         "notes": "+2 tense",
         "createdBy": "LHAB",
-        "id": "ninu_255"
+        "id": "-ninu-_256"
     },
     {
         "protoForm": "-tʷamʲ-",
-        "evolvedForm": "tʷami",
-        "modernForm": "tʷami",
-        "romanisation": "tämi",
+        "evolvedForm": "-tʷami-",
+        "modernForm": "-tʷami-",
+        "romanisation": "-tämi-",
         "english": [
             "distant past"
         ],
         "partOfSpeech": "affix",
         "notes": "+2 tense",
         "createdBy": "LHAB",
-        "id": "tämi_256"
+        "id": "-tämi-_257"
     },
     {
         "protoForm": "-lʷaj-",
-        "evolvedForm": "ra",
-        "modernForm": "ra",
-        "romanisation": "ra",
+        "evolvedForm": "-ra-",
+        "modernForm": "-ra-",
+        "romanisation": "-ra-",
         "english": [
             "future"
         ],
         "partOfSpeech": "affix",
         "notes": "+2 tense",
         "createdBy": "LHAB",
-        "id": "ra_257"
+        "id": "-ra-_258"
     },
     {
         "protoForm": "-lʲə",
-        "evolvedForm": "li",
-        "modernForm": "li",
-        "romanisation": "li",
+        "evolvedForm": "-li",
+        "modernForm": "-li",
+        "romanisation": "-li",
         "english": [
             "continuous"
         ],
         "partOfSpeech": "affix",
         "notes": "+3 aspect",
         "createdBy": "LHAB",
-        "id": "li_258"
+        "id": "-li_259"
     },
     {
         "protoForm": "-tʲalʲ",
-        "evolvedForm": "tʲali",
-        "modernForm": "tʲali",
-        "romanisation": "táli",
+        "evolvedForm": "-tʲali",
+        "modernForm": "-tʲali",
+        "romanisation": "-táli",
         "english": [
             "cessative"
         ],
         "partOfSpeech": "affix",
         "notes": "+3 aspect",
         "createdBy": "LHAB",
-        "id": "táli_259"
+        "id": "-táli_260"
     },
     {
         "protoForm": "-kʷaw",
-        "evolvedForm": "kʷa",
-        "modernForm": "kʷa",
-        "romanisation": "kä",
+        "evolvedForm": "-kʷa",
+        "modernForm": "-kʷa",
+        "romanisation": "-kä",
         "english": [
             "perfective"
         ],
         "partOfSpeech": "affix",
         "notes": "+3 aspect",
         "createdBy": "LHAB",
-        "id": "kä_260"
+        "id": "-kä_261"
     },
     {
         "protoForm": "lʲajnʲa",
@@ -3511,7 +3512,7 @@
         "partOfSpeech": "modifier",
         "notes": "",
         "createdBy": "Jake",
-        "id": "raná_261"
+        "id": "raná_262"
     },
     {
         "protoForm": "jawnʲa",
@@ -3524,6 +3525,6 @@
         "partOfSpeech": "modifier",
         "notes": "",
         "createdBy": "Caleb",
-        "id": "janä_262"
+        "id": "janä_263"
     }
 ]
